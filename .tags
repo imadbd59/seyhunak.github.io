@@ -1,0 +1,757 @@
+@font-face	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^@font-face {$/;"	function	line:2
+src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^	src:url('..\/fonts\/codropsicons\/codropsicons.eot?#iefix') format('embedded-opentype'),$/;"	function	line:7
+url('../fonts/codropsicons/codropsicons.woff') format('woff')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^		url('..\/fonts\/codropsicons\/codropsicons.woff') format('woff'),$/;"	function	line:8
+url('../fonts/codropsicons/codropsicons.ttf') format('truetype')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^		url('..\/fonts\/codropsicons\/codropsicons.ttf') format('truetype'),$/;"	function	line:9
+*, *:after, *:before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }$/;"	function	line:13
+.clearfix	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.clearfix:before, .clearfix:after { display: table; content: ''; }$/;"	class	line:14
+.clearfix:before, .clearfix:after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.clearfix:before, .clearfix:after { display: table; content: ''; }$/;"	function	line:14
+.clearfix	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.clearfix:after { clear: both; }$/;"	class	line:15
+.clearfix:after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.clearfix:after { clear: both; }$/;"	function	line:15
+body	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^body {$/;"	tag	line:18
+body	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^body {$/;"	function	line:18
+.demo-7	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-7 {$/;"	class	line:30
+.demo-7	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-7 {$/;"	function	line:30
+.demo-5	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-5 {$/;"	class	line:34
+.demo-5	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-5 {$/;"	function	line:34
+.demo-6	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-6 {$/;"	class	line:39
+.demo-6	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-6 {$/;"	function	line:39
+.demo-1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-1 {$/;"	class	line:43
+.demo-1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-1 {$/;"	function	line:43
+a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^a {$/;"	tag	line:47
+a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^a {$/;"	function	line:47
+a:hover, a:focus	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^a:hover, a:focus {$/;"	function	line:53
+.demo-4	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a {$/;"	class	line:57
+.demo-4 a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a {$/;"	function	line:57
+.demo-4	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a:hover,$/;"	class	line:61
+.demo-4 a:hover	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a:hover,$/;"	function	line:61
+.demo-4	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a:focus {$/;"	class	line:62
+.demo-4 a:focus	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-4 a:focus {$/;"	function	line:62
+.demo-8	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a {$/;"	class	line:66
+.demo-8 a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a {$/;"	function	line:66
+.demo-8	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a:hover,$/;"	class	line:70
+.demo-8 a:hover	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a:hover,$/;"	function	line:70
+.demo-8	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a:focus {$/;"	class	line:71
+.demo-8 a:focus	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-8 a:focus {$/;"	function	line:71
+.codrops-top	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top {$/;"	class	line:76
+.codrops-top	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top {$/;"	function	line:76
+.codrops-top	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top a {$/;"	class	line:89
+.codrops-top a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top a {$/;"	function	line:89
+.codrops-top	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top span.right {$/;"	class	line:97
+.codrops-top span.right	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top span.right {$/;"	function	line:97
+.codrops-top	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top span.right a {$/;"	class	line:101
+.codrops-top span.right a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-top span.right a {$/;"	function	line:101
+.codrops-icon	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon:before {$/;"	class	line:106
+.codrops-icon:before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon:before {$/;"	function	line:106
+.codrops-icon-drop	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon-drop:before {$/;"	class	line:118
+.codrops-icon-drop:before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon-drop:before {$/;"	function	line:118
+.codrops-icon-prev	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon-prev:before {$/;"	class	line:122
+.codrops-icon-prev:before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-icon-prev:before {$/;"	function	line:122
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos {$/;"	class	line:126
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos {$/;"	function	line:126
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a {$/;"	class	line:131
+.codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a {$/;"	function	line:131
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a:hover,$/;"	class	line:144
+.codrops-demos a:hover	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a:hover,$/;"	function	line:144
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a.current-demo {$/;"	class	line:145
+.codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a.current-demo {$/;"	function	line:145
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a.current-demo {$/;"	class	line:150
+.codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.codrops-demos a.current-demo {$/;"	function	line:150
+.related	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.related {$/;"	class	line:154
+.related	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.related {$/;"	function	line:154
+.demo-5	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-5 .related {$/;"	class	line:161
+.demo-5 .related	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^.demo-5 .related {$/;"	function	line:161
+body #cdawrap	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^body #cdawrap {$/;"	function	line:166
+@media screen and (max-width: 40em)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^@media screen and (max-width: 40em) {$/;"	function	line:170
+.codrops-icon	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^	.codrops-icon span {$/;"	class	line:172
+.codrops-icon span	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^	.codrops-icon span {$/;"	function	line:172
+.related	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^	.related {$/;"	class	line:176
+.related	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/main.css	/^	.related {$/;"	function	line:176
+html	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^<html lang="en" class="no-js">$/;"	function	line:2
+head	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta charset="UTF-8" \/>$/;"	function	line:4
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:5
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+title	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <title>Seyhun Akyürek \/ Senior IOS Engineer<\/title>$/;"	function	line:7
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta name="description" content="Seyhun Akyürek working as Senior IOS Engineer, writing code using iOS, Swift, Objective-C, Cocoa Touch, Scala, Ruby, Rails Living in Istanbul \/ Turkey" \/>$/;"	function	line:9
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta name="keywords" content="ios, swift, objective c, scala, ruby, rails" \/>$/;"	function	line:10
+meta	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <meta name="author" content="Seyhun Akyürek" \/>$/;"	function	line:11
+link	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <link rel="shortcut icon" href="assets\/images\/favicon.ico">$/;"	function	line:13
+link	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <link rel="stylesheet" type="text\/css" href="assets\/stylesheets\/normalize.css" \/>$/;"	function	line:14
+link	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <link rel="stylesheet" type="text\/css" href="assets\/stylesheets\/main.css" \/>$/;"	function	line:15
+link	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <link rel="stylesheet" type="text\/css" href="assets\/stylesheets\/component.css" \/>$/;"	function	line:16
+script	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <script src="http:\/\/html5shiv.googlecode.com\/svn\/trunk\/html5.js"><\/script>$/;"	function	line:19
+script	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <script src="https:\/\/cdn.smooch.io\/smooch.min.js"><\/script>$/;"	function	line:22
+script	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <script>$/;"	function	line:23
+body	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^  <body class="demo-3">$/;"	function	line:30
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^  <div id="container" class="container intro-effect-sliced">$/;"	function	line:31
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <div class="codrops-top clearfix">$/;"	function	line:35
+span	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <span class="right"><a class="codrops-icon codrops-icon" href="http:\/\/zerply.com\/seyhunak">$/;"	function	line:36
+span	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <span>You have project in mind? Hire Me<\/span><\/a><\/span>$/;"	function	line:37
+header	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <header class="header">$/;"	function	line:40
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div class="bg-img"><img src="assets\/images\/background.jpg" alt="Background Image" \/><\/div>$/;"	function	line:41
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div class="title">$/;"	function	line:43
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h1>Seyhun Akyürek<\/h1>$/;"	function	line:44
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <p class="subline">working as Senior IOS Engineer, writing code using <strong>iOS, Swift, Objective-C, Cocoa Touch, Scala, Ruby, Rails<\/strong>$/;"	function	line:45
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <p>Follow me on$/;"	function	line:48
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="http:\/\/twitter.com\/seyhunak">Twitter<\/a><\/strong>$/;"	function	line:49
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="http:\/\/facebook.com\/seyhunak">Facebook<\/a><\/strong>$/;"	function	line:50
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="http:\/\/linkedin.com\/seyhunak">Linkedin<\/a><\/strong>$/;"	function	line:51
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="http:\/\/github.com\/seyhunak">Github<\/a><\/strong>$/;"	function	line:52
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="http:\/\/stackoverflow.com\/seyhunak">Stackoverflow<\/a><\/strong>$/;"	function	line:53
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <p>Blogging on$/;"	function	line:56
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="https:\/\/medium.com\/@seyhunak">Medium @seyhunak<\/a><\/strong>$/;"	function	line:57
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <p>Did you have an idea?$/;"	function	line:60
+strong	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^              <strong><a href="https:\/\/calendly.com\/seyhunak\/30min\/">Schedule 30min. meetup<\/a><\/strong>$/;"	function	line:61
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div class="bg-img"><img src="assets\/images\/background.jpg" alt="Background Image" \/><\/div>$/;"	function	line:66
+button	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <button class="trigger" data-info="Click to learn more about me!"><span>Trigger<\/span><\/button>$/;"	function	line:69
+article	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <article class="content">$/;"	function	line:71
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div>$/;"	function	line:72
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h1>Experience (Current \/ Past)<\/h1>$/;"	function	line:74
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <ul>$/;"	function	line:75
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> I had about 3 years of experience about mobile development, starting from Objective C to Swift.<\/li>$/;"	function	line:76
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> I worked as backend developer about 3 years of Ruby, Ruby On Rails, Python<\/li>$/;"	function	line:77
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Used cutting edge tools, microservices and third party API's<\/li>$/;"	function	line:78
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Broad knowledge of industry trends and pitfalls; ability to distill information and develop clear insights.<\/li>$/;"	function	line:79
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Expert knowledge of agile development based on real world delivery of products with focus on quality, cost, and speed-to-market<\/li>$/;"	function	line:80
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Decided and applied platform selection and technical design.<\/li>$/;"	function	line:81
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> From brainstorming through deployment, I worked cross functionally with members of organization to deliver the necessary deliverables<\/li>$/;"	function	line:82
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> I had knowledge about for definition, design, development and successful, timely completion of new features in current and future products.<\/li>$/;"	function	line:83
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Implemented design reviews, code reviews to ensure quality of software in existing products.<\/li>$/;"	function	line:84
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Designed and implemented new user-facing features in large, complex mobile applications.<\/li>$/;"	function	line:85
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h1>Area of Expertise<\/h1>$/;"	function	line:88
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <ul>$/;"	function	line:89
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Typically 6+ years directly related experience of software development and\/or enterprise software implementation experience<\/li>$/;"	function	line:90
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Advanced disciplinary knowledge of iOS, Swift, Cocoa Touch, Objective-C software engineering processes, tools, methods, test driven development.<\/li>$/;"	function	line:91
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Solid experience of object-oriented programming<\/li>$/;"	function	line:92
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Knowledge of memory management and multi-threading<\/li>$/;"	function	line:93
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Experience with Cocoa APIs on OS X<\/li>$/;"	function	line:94
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Strong foundation in RESTful APIs to connect to back-end services<\/li>$/;"	function	line:95
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Strong foundation in Apple’s design principles and interface guidelines<\/li>$/;"	function	line:96
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Good knowledge of performance limits and characteristics, benchmarking and optimization<\/li>$/;"	function	line:97
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Proficient understanding of code versioning tools, such as Git and distributed versioning control.<\/li>$/;"	function	line:98
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Strong knowledge in continuous integration (XCode Server, Jenkins, Teamcity)<\/li>$/;"	function	line:99
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Debugging and optimizing consumer facing mobile applications for performance and scale.<\/li>$/;"	function	line:100
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Maintained Amazon EC2, Amazon RDS, Amazon S3, Apache VPC servers for internal \/ external projects<\/li>$/;"	function	line:101
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Shipped code on projects with an agile, test-driven development<\/li>$/;"	function	line:102
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Extensive experience with rspec, rails, ruby, jQuery and Angular.js, Mustache.js and underscore.js<\/li>$/;"	function	line:103
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Twitter, Facebook, Instagram, FourSquare API's<\/li>$/;"	function	line:104
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> JSON, JSONP, XML protocols<\/li>$/;"	function	line:105
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Using Git for version control, revisions, contribution to open source projects.<\/li>$/;"	function	line:106
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h1>Open Source<\/h1>$/;"	function	line:109
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <ul>$/;"	function	line:110
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Contributed to open source projects including <a href="https:\/\/github.com\/seyhunak\/twitter-bootstrap-rails">twitter-bootstrap-rails<\/a> <\/li>$/;"	function	line:111
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li> Reviewed pull requests, merged pull requests, and verified reported issues on open source projects<\/li>$/;"	function	line:112
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h1>Projects<\/h1>$/;"	function	line:115
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h2>$/;"	function	line:117
+mateli	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <a name="mateli" class="anchor" href="#mateli"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/www.gk-group.com">Mateli<\/a>$/;"	anchor	line:118
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <a name="mateli" class="anchor" href="#mateli"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/www.gk-group.com">Mateli<\/a>$/;"	function	line:118
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <p>Working as IOS\/Swift engineer on Mateli's mobile banking project<\/p>$/;"	function	line:121
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <ul>$/;"	function	line:122
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^           <li>Using IOS, Swift, Protocol Oriented Programming, MVVM, Test Driven Development, TeamCity CI, Jenkins CI and enterprise grade-level tools, financial microservices, REST APIs.<\/li>$/;"	function	line:123
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^           <li>Implementing Mateli's payment architecture, microservices<\/li>$/;"	function	line:124
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^           <li>Working on Face Recognition API, Voice Recognation, Fraud Prevention and payment related micro-services.<\/li>$/;"	function	line:125
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <h2>$/;"	function	line:128
+ingbank	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="ingbank" class="anchor" href="#ingbank"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/ingbank.com.tr">INGBank<\/a>$/;"	anchor	line:129
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="ingbank" class="anchor" href="#ingbank"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/ingbank.com.tr">INGBank<\/a>$/;"	function	line:129
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Working as IOS\/Swift developer on INGBank's mobile project<\/p>$/;"	function	line:132
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:134
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Swift application using enterprise grade tools.<\/li>$/;"	function	line:135
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Implementing INGBank's enterprise payment architecture<\/li>$/;"	function	line:136
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^         <h2>$/;"	function	line:139
+studio	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="studio" class="anchor" href="#studio"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/getstudio.co">Studio<\/a>$/;"	anchor	line:140
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="studio" class="anchor" href="#studio"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/getstudio.co">Studio<\/a>$/;"	function	line:140
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Worked as Swift developer on Studio project, managed the team, implemented latest realtime technologies, messaging architecture<\/p>$/;"	function	line:143
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:145
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Swift, Objective-C application using Firebase, Parse, Parse Analytics and Parse Push Notifications<\/li>$/;"	function	line:146
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Developed Realtime messaging interface for notification system<\/li>$/;"	function	line:147
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Extensive API interfaces used (Parse API, Parse Cloud functions)<\/li>$/;"	function	line:148
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Used highly scalable mobile backend system. i.e. Firebase<\/li>$/;"	function	line:149
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>User authentication via Facebook via Parse<\/li>$/;"	function	line:150
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^        <h2>$/;"	function	line:154
+introduce	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="introduce" class="anchor" href="#introduce"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/introduceapp.me">Introduce<\/a>$/;"	anchor	line:155
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="introduce" class="anchor" href="#introduce"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/introduceapp.me">Introduce<\/a>$/;"	function	line:155
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Worked as Lead developer on introduceapp.me project, managed the team, implemented latest web technologies and methodologies.<\/p>$/;"	function	line:158
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:160
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Complex Rails application with MySQL, MongoDB, Redis database<\/li>$/;"	function	line:161
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>RESTFUL API Interface for mobile application, built on Rails application with MySQL, MongoDB, Redis database<\/li>$/;"	function	line:162
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Developed Realtime messaging interface for notification system<\/li>$/;"	function	line:163
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Extensive API interfaces used (Twitter Search API, REST API and Streaming API)<\/li>$/;"	function	line:164
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Built highly scalable web backend<\/li>$/;"	function	line:165
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>User authentication via Twitter<\/li>$/;"	function	line:166
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <h2>$/;"	function	line:169
+pointro	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="pointro" class="anchor" href="#pointro"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/pointro.me">Pointro<\/a>$/;"	anchor	line:170
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="pointro" class="anchor" href="#pointro"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/pointro.me">Pointro<\/a>$/;"	function	line:170
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Worked as Lead developer on pointro.me (SAAS) project, managed the team, implemented latest web technologies and methodologies.<\/p>$/;"	function	line:173
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:175
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Complex Rails application with MySQL, MongoDB, Redis database<\/li>$/;"	function	line:176
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Developed a location engine and realtime API integrations<\/li>$/;"	function	line:177
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Extensive API interfaces used (Twitter, Foursquare, Instagram, Yelp, Booking, Tripadvisor)<\/li>$/;"	function	line:178
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Built highly scalable web backend<\/li>$/;"	function	line:179
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>User authentication via Twitter, Foursquare, Instagram<\/li>$/;"	function	line:180
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <h2>$/;"	function	line:183
+hesaplabakalim	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="hesaplabakalim" class="anchor" href="#hesaplabakalim"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/hesaplabakalim.com">HesaplaBakalım<\/a>$/;"	anchor	line:184
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="hesaplabakalim" class="anchor" href="#hesaplabakalim"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/hesaplabakalim.com">HesaplaBakalım<\/a>$/;"	function	line:184
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Worked as Lead developer on hesaplabakalim.com project, managed the team, implemented latest web technologies and methodologies.<\/p>$/;"	function	line:187
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:189
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Complex Rails application with PostgreSQL, Redis database<\/li>$/;"	function	line:190
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Developed calculator engine (wizard style, or form style) <\/li>$/;"	function	line:191
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Cached and scaled application<\/li>$/;"	function	line:192
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Marketing actions (Google Analytics and Google Adwords)<\/li>$/;"	function	line:193
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>User authentication via Facebook<\/li>$/;"	function	line:194
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <h2>$/;"	function	line:197
+e-prnet	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="e-prnet" class="anchor" href="#e-prnet"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/e-pr.net">e-PR.NET<\/a>$/;"	anchor	line:198
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="e-prnet" class="anchor" href="#e-prnet"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/e-pr.net">e-PR.NET<\/a>$/;"	function	line:198
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>Rails application for pressrooms and distributing its pressdocs<\/p>$/;"	function	line:201
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:203
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Complex Rails application for creating and managing pressrooms and pressdocs<\/li>$/;"	function	line:204
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^            <li>Tracks user activity and reporting (usage based, keyword based and social based)<\/li>$/;"	function	line:205
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <h2>$/;"	function	line:208
+sosyalpostacom	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="sosyalpostacom" class="anchor" href="#sosyalpostacom"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/sosyalposta.com">SosyalPosta.com<\/a>$/;"	anchor	line:209
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="sosyalpostacom" class="anchor" href="#sosyalpostacom"><span class="octicon octicon-link"><\/span><\/a><a href="http:\/\/sosyalposta.com">SosyalPosta.com<\/a>$/;"	function	line:209
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <p>PHP application with MySQL database hosted on Amazon EC2<\/p>$/;"	function	line:212
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:214
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Complex PHP application for generating social postcards and sending as physical card<\/li>$/;"	function	line:215
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Contributed to application backend code<\/li>$/;"	function	line:216
+background-experience	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="background-experience" class="anchor" href="#background-experience"><span class="octicon octicon-link"><\/span><\/a>Background Experience<\/h2>$/;"	anchor	line:218
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="background-experience" class="anchor" href="#background-experience"><span class="octicon octicon-link"><\/span><\/a>Background Experience<\/h2>$/;"	function	line:218
+h	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <h3>$/;"	function	line:220
+python--django-developer--before-2012	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="python--django-developer--before-2012" class="anchor" href="#python--django-developer--before-2012"><span class="octicon octicon-link"><\/span><\/a>Python &amp; Django Developer ( Before 2012)<\/h3>$/;"	anchor	line:221
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="python--django-developer--before-2012" class="anchor" href="#python--django-developer--before-2012"><span class="octicon octicon-link"><\/span><\/a>Python &amp; Django Developer ( Before 2012)<\/h3>$/;"	function	line:221
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:223
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Developed and maintained Python, Django, javascript applications<\/li>$/;"	function	line:224
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Deployed on Google App Engine platform<\/li>$/;"	function	line:225
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Built, realtime push notification application called minirealtime<\/li>$/;"	function	line:226
+php-developer	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="php-developer" class="anchor" href="#php-developer"><span class="octicon octicon-link"><\/span><\/a>PHP Developer<\/h3>$/;"	anchor	line:228
+a	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <a name="php-developer" class="anchor" href="#php-developer"><span class="octicon octicon-link"><\/span><\/a>PHP Developer<\/h3>$/;"	function	line:228
+ul	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <ul>$/;"	function	line:230
+li	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^          <li>Developed and maintained PHP, Zend Framework, javascript applications.<\/li>$/;"	function	line:231
+section	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^    <section class="related">$/;"	function	line:238
+p	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <p>If you have project in mind? Free free to hire me<\/p>$/;"	function	line:239
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div><a href="http:\/\/zerply.com\/seyhunak"><p>Hire me on Zerply<\/p><\/a><\/div>$/;"	function	line:240
+div	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      <div><a href="skype:\/\/seyhunak"><p>Call me on Skype<\/p><\/a><\/div>$/;"	function	line:241
+script	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^  <script src="assets\/javascripts\/classie.js"><\/script>$/;"	function	line:245
+script	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^  <script>$/;"	function	line:246
+preventDefault	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function preventDefault(e) {$/;"	function	line:274
+keydown	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function keydown(e) {$/;"	function	line:281
+touchmove	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function touchmove(e) {$/;"	function	line:290
+wheel	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function wheel(e) {$/;"	function	line:294
+disable_scroll	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function disable_scroll() {$/;"	function	line:301
+enable_scroll	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function enable_scroll() {$/;"	function	line:307
+scrollY	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function scrollY() {$/;"	function	line:319
+scrollPage	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function scrollPage() {$/;"	function	line:323
+toggle	/Users/seyhunak/Projects/seyhunak.github.io/index.html	/^      function toggle( reveal ) {$/;"	function	line:349
+@font-face	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^@font-face {$/;"	function	line:1
+src:url('../fonts/icomoon/icomoon.eot?#iefix-ee0u0f') format('embedded-opentype')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	src:url('..\/fonts\/icomoon\/icomoon.eot?#iefix-ee0u0f') format('embedded-opentype'),$/;"	function	line:6
+url('../fonts/icomoon/icomoon.woff?-ee0u0f') format('woff')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^		url('..\/fonts\/icomoon\/icomoon.woff?-ee0u0f') format('woff'),$/;"	function	line:7
+url('../fonts/icomoon/icomoon.ttf?-ee0u0f') format('truetype')	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^		url('..\/fonts\/icomoon\/icomoon.ttf?-ee0u0f') format('truetype'),$/;"	function	line:8
+html, body, .container, .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^html, body, .container, .header {$/;"	function	line:12
+.header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.header {$/;"	class	line:17
+.header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.header {$/;"	function	line:17
+.bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.bg-img {$/;"	class	line:24
+.bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.bg-img {$/;"	function	line:24
+.bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.bg-img img {$/;"	class	line:35
+.bg-img img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.bg-img img {$/;"	function	line:35
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title {$/;"	class	line:44
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title {$/;"	function	line:44
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title h1 {$/;"	class	line:57
+.title h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title h1 {$/;"	function	line:57
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p {$/;"	class	line:65
+.title p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p {$/;"	function	line:65
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title h1,$/;"	class	line:73
+.title h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title h1,$/;"	function	line:73
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p.subline {$/;"	class	line:74
+.title p.subline	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p.subline {$/;"	function	line:74
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p.subline {$/;"	class	line:78
+.title p.subline	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.title p.subline {$/;"	function	line:78
+button.trigger	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^button.trigger {$/;"	function	line:83
+.container	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.container:not(.notrans) button.trigger {$/;"	class	line:100
+.container:not(.notrans) button.trigger	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.container:not(.notrans) button.trigger {$/;"	function	line:100
+.container	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.container.modify:not(.notrans) button.trigger {$/;"	class	line:105
+.container.modify:not(.notrans) button.trigger	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.container.modify:not(.notrans) button.trigger {$/;"	function	line:105
+button.trigger::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^button.trigger::before {$/;"	function	line:112
+button.trigger:focus	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^button.trigger:focus {$/;"	function	line:125
+button.trigger span	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^button.trigger span {$/;"	function	line:129
+button.trigger span::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^button.trigger span::before {$/;"	function	line:137
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content {$/;"	class	line:157
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content {$/;"	function	line:157
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) {$/;"	class	line:162
+.content > div:not(.title)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) {$/;"	function	line:162
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) p {$/;"	class	line:168
+.content > div:not(.title) p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) p {$/;"	function	line:168
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) p:first-child {$/;"	class	line:172
+.content > div:not(.title) p:first-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content > div:not(.title) p:first-child {$/;"	function	line:172
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content h3 {$/;"	class	line:176
+.content h3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content h3 {$/;"	function	line:176
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote {$/;"	class	line:181
+.content blockquote	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote {$/;"	function	line:181
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote::before {$/;"	class	line:189
+.content blockquote::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote::before {$/;"	function	line:189
+.content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote::after {$/;"	class	line:193
+.content blockquote::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.content blockquote::after {$/;"	function	line:193
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .bg-img {$/;"	class	line:202
+.intro-effect-jam3:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .bg-img {$/;"	function	line:202
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header h1,$/;"	class	line:207
+.intro-effect-jam3:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header h1,$/;"	function	line:207
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-top a {$/;"	class	line:208
+.intro-effect-jam3:not(.notrans) .codrops-top a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-top a {$/;"	function	line:208
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-demos a {$/;"	class	line:213
+.intro-effect-jam3:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-demos a {$/;"	function	line:213
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p {$/;"	class	line:218
+.intro-effect-jam3:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p {$/;"	function	line:218
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	class	line:223
+.intro-effect-jam3:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	function	line:223
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .bg-img,$/;"	class	line:228
+.intro-effect-jam3:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .bg-img,$/;"	function	line:228
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header h1,$/;"	class	line:229
+.intro-effect-jam3:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header h1,$/;"	function	line:229
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-top a,$/;"	class	line:230
+.intro-effect-jam3:not(.notrans) .codrops-top a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-top a,$/;"	function	line:230
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-demos a,$/;"	class	line:231
+.intro-effect-jam3:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .codrops-demos a,$/;"	function	line:231
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	class	line:232
+.intro-effect-jam3:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	function	line:232
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p,$/;"	class	line:239
+.intro-effect-jam3:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p,$/;"	function	line:239
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p.subline,$/;"	class	line:240
+.intro-effect-jam3:not(.notrans) .header p.subline	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .header p.subline,$/;"	function	line:240
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	class	line:241
+.intro-effect-jam3:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3:not(.notrans) .content > div {$/;"	function	line:241
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p,$/;"	class	line:246
+.intro-effect-jam3.modify:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p,$/;"	function	line:246
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p.subline,$/;"	class	line:247
+.intro-effect-jam3.modify:not(.notrans) .header p.subline	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p.subline,$/;"	function	line:247
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .content > div {$/;"	class	line:248
+.intro-effect-jam3.modify:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .content > div {$/;"	function	line:248
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .codrops-demos a {$/;"	class	line:253
+.intro-effect-jam3 .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .codrops-demos a {$/;"	function	line:253
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .codrops-demos a.current-demo {$/;"	class	line:257
+.intro-effect-jam3 .codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .codrops-demos a.current-demo {$/;"	function	line:257
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-demos a {$/;"	class	line:261
+.intro-effect-jam3.modify .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-demos a {$/;"	function	line:261
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-demos a.current-demo {$/;"	class	line:265
+.intro-effect-jam3.modify .codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-demos a.current-demo {$/;"	function	line:265
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.container {$/;"	class	line:269
+.intro-effect-jam3.container	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.container {$/;"	function	line:269
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .bg-img {$/;"	class	line:273
+.intro-effect-jam3 .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .bg-img {$/;"	function	line:273
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .bg-img {$/;"	class	line:281
+.intro-effect-jam3.modify .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .bg-img {$/;"	function	line:281
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .header h1 {$/;"	class	line:288
+.intro-effect-jam3.modify .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .header h1 {$/;"	function	line:288
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .header p {$/;"	class	line:292
+.intro-effect-jam3 .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .header p {$/;"	function	line:292
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .header p {$/;"	class	line:299
+.intro-effect-jam3.modify .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .header p {$/;"	function	line:299
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content {$/;"	class	line:305
+.intro-effect-jam3 .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content {$/;"	function	line:305
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .header,$/;"	class	line:309
+.intro-effect-jam3 .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .header,$/;"	function	line:309
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content {$/;"	class	line:310
+.intro-effect-jam3 .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content {$/;"	function	line:310
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content > div {$/;"	class	line:314
+.intro-effect-jam3 .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3 .content > div {$/;"	function	line:314
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .content > div {$/;"	class	line:320
+.intro-effect-jam3.modify .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .content > div {$/;"	function	line:320
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-top a {$/;"	class	line:326
+.intro-effect-jam3.modify .codrops-top a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify .codrops-top a {$/;"	function	line:326
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p:nth-last-child(2) {$/;"	class	line:331
+.intro-effect-jam3.modify:not(.notrans) .header p:nth-last-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p:nth-last-child(2) {$/;"	function	line:331
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p:last-child {$/;"	class	line:336
+.intro-effect-jam3.modify:not(.notrans) .header p:last-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .header p:last-child {$/;"	function	line:336
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .content > div {$/;"	class	line:341
+.intro-effect-jam3.modify:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-jam3.modify:not(.notrans) .content > div {$/;"	function	line:341
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img {$/;"	class	line:350
+.intro-effect-fadeout:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img {$/;"	function	line:350
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img::after {$/;"	class	line:355
+.intro-effect-fadeout:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img::after {$/;"	function	line:355
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header h1 {$/;"	class	line:360
+.intro-effect-fadeout:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header h1 {$/;"	function	line:360
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header p,$/;"	class	line:365
+.intro-effect-fadeout:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header p,$/;"	function	line:365
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .content > div {$/;"	class	line:366
+.intro-effect-fadeout:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .content > div {$/;"	function	line:366
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img,$/;"	class	line:371
+.intro-effect-fadeout:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img,$/;"	function	line:371
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img::after,$/;"	class	line:372
+.intro-effect-fadeout:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .bg-img::after,$/;"	function	line:372
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header h1,$/;"	class	line:373
+.intro-effect-fadeout:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header h1,$/;"	function	line:373
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header p,$/;"	class	line:374
+.intro-effect-fadeout:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .header p,$/;"	function	line:374
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .content > div {$/;"	class	line:375
+.intro-effect-fadeout:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout:not(.notrans) .content > div {$/;"	function	line:375
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header {$/;"	class	line:380
+.intro-effect-fadeout .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header {$/;"	function	line:380
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .bg-img {$/;"	class	line:384
+.intro-effect-fadeout.modify .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .bg-img {$/;"	function	line:384
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .bg-img::after {$/;"	class	line:389
+.intro-effect-fadeout .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .bg-img::after {$/;"	function	line:389
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .bg-img::after {$/;"	class	line:402
+.intro-effect-fadeout.modify .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .bg-img::after {$/;"	function	line:402
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .title {$/;"	class	line:406
+.intro-effect-fadeout .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .title {$/;"	function	line:406
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header h1,$/;"	class	line:411
+.intro-effect-fadeout.modify .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header h1,$/;"	function	line:411
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p {$/;"	class	line:412
+.intro-effect-fadeout .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p {$/;"	function	line:412
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p {$/;"	class	line:416
+.intro-effect-fadeout .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p {$/;"	function	line:416
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p:nth-child(2) {$/;"	class	line:420
+.intro-effect-fadeout .header p:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p:nth-child(2) {$/;"	function	line:420
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p:nth-child(3) {$/;"	class	line:425
+.intro-effect-fadeout .header p:nth-child(3)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .header p:nth-child(3) {$/;"	function	line:425
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header p:nth-child(2),$/;"	class	line:430
+.intro-effect-fadeout.modify .header p:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header p:nth-child(2),$/;"	function	line:430
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header p:nth-child(3) {$/;"	class	line:431
+.intro-effect-fadeout.modify .header p:nth-child(3)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .header p:nth-child(3) {$/;"	function	line:431
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .content {$/;"	class	line:437
+.intro-effect-fadeout .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .content {$/;"	function	line:437
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .content > div {$/;"	class	line:442
+.intro-effect-fadeout .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout .content > div {$/;"	function	line:442
+.intro-effect-fadeout	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .content > div {$/;"	class	line:448
+.intro-effect-fadeout.modify .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-fadeout.modify .content > div {$/;"	function	line:448
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .bg-img,$/;"	class	line:458
+.intro-effect-sliced:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .bg-img,$/;"	function	line:458
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .title {$/;"	class	line:459
+.intro-effect-sliced:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .title {$/;"	function	line:459
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header h1,$/;"	class	line:464
+.intro-effect-sliced:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header h1,$/;"	function	line:464
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .codrops-demos a {$/;"	class	line:465
+.intro-effect-sliced:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .codrops-demos a {$/;"	function	line:465
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header p {$/;"	class	line:470
+.intro-effect-sliced:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header p {$/;"	function	line:470
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .content > div {$/;"	class	line:475
+.intro-effect-sliced:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .content > div {$/;"	function	line:475
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .bg-img,$/;"	class	line:480
+.intro-effect-sliced:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .bg-img,$/;"	function	line:480
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header h1,$/;"	class	line:481
+.intro-effect-sliced:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header h1,$/;"	function	line:481
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .title,$/;"	class	line:482
+.intro-effect-sliced:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .title,$/;"	function	line:482
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header p,$/;"	class	line:483
+.intro-effect-sliced:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .header p,$/;"	function	line:483
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .content > div,$/;"	class	line:484
+.intro-effect-sliced:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .content > div,$/;"	function	line:484
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .codrops-demos a {$/;"	class	line:485
+.intro-effect-sliced:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced:not(.notrans) .codrops-demos a {$/;"	function	line:485
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .header h1,$/;"	class	line:492
+.intro-effect-sliced.modify:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .header h1,$/;"	function	line:492
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .title,$/;"	class	line:493
+.intro-effect-sliced.modify:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .title,$/;"	function	line:493
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .header p,$/;"	class	line:494
+.intro-effect-sliced.modify:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .header p,$/;"	function	line:494
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .content > div,$/;"	class	line:495
+.intro-effect-sliced.modify:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .content > div,$/;"	function	line:495
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .codrops-demos a {$/;"	class	line:496
+.intro-effect-sliced.modify:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .codrops-demos a {$/;"	function	line:496
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:first-child {$/;"	class	line:501
+.intro-effect-sliced .bg-img:first-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:first-child {$/;"	function	line:501
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:last-child {$/;"	class	line:505
+.intro-effect-sliced .bg-img:last-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:last-child {$/;"	function	line:505
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:last-child img {$/;"	class	line:511
+.intro-effect-sliced .bg-img:last-child img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .bg-img:last-child img {$/;"	function	line:511
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .bg-img:first-child {$/;"	class	line:515
+.intro-effect-sliced.modify .bg-img:first-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .bg-img:first-child {$/;"	function	line:515
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .bg-img:last-child {$/;"	class	line:520
+.intro-effect-sliced.modify .bg-img:last-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .bg-img:last-child {$/;"	function	line:520
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .codrops-demos {$/;"	class	line:525
+.intro-effect-sliced .codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .codrops-demos {$/;"	function	line:525
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .codrops-demos a {$/;"	class	line:529
+.intro-effect-sliced .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .codrops-demos a {$/;"	function	line:529
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .codrops-demos a {$/;"	class	line:534
+.intro-effect-sliced.modify .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .codrops-demos a {$/;"	function	line:534
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .title {$/;"	class	line:538
+.intro-effect-sliced .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .title {$/;"	function	line:538
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .title {$/;"	class	line:543
+.intro-effect-sliced.modify .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .title {$/;"	function	line:543
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .header p {$/;"	class	line:548
+.intro-effect-sliced .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .header p {$/;"	function	line:548
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .header p {$/;"	class	line:553
+.intro-effect-sliced.modify .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .header p {$/;"	function	line:553
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .header h1 {$/;"	class	line:557
+.intro-effect-sliced.modify .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .header h1 {$/;"	function	line:557
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .content > div {$/;"	class	line:561
+.intro-effect-sliced .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced .content > div {$/;"	function	line:561
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .content > div {$/;"	class	line:567
+.intro-effect-sliced.modify .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify .content > div {$/;"	function	line:567
+.intro-effect-sliced	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .title {$/;"	class	line:574
+.intro-effect-sliced.modify:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sliced.modify:not(.notrans) .title {$/;"	function	line:574
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	class	line:583
+.intro-effect-side:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	function	line:583
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title {$/;"	class	line:584
+.intro-effect-side:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title {$/;"	function	line:584
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after {$/;"	class	line:589
+.intro-effect-side:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after {$/;"	function	line:589
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .header p {$/;"	class	line:594
+.intro-effect-side:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .header p {$/;"	function	line:594
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .content > div {$/;"	class	line:599
+.intro-effect-side:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .content > div {$/;"	function	line:599
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	class	line:604
+.intro-effect-side:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	function	line:604
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after,$/;"	class	line:605
+.intro-effect-side:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after,$/;"	function	line:605
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title,$/;"	class	line:606
+.intro-effect-side:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title,$/;"	function	line:606
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .header p,$/;"	class	line:607
+.intro-effect-side:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .header p,$/;"	function	line:607
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .content > div {$/;"	class	line:608
+.intro-effect-side:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .content > div {$/;"	function	line:608
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-top a {$/;"	class	line:615
+.intro-effect-side .codrops-top a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-top a {$/;"	function	line:615
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::before,$/;"	class	line:619
+.intro-effect-side .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::before,$/;"	function	line:619
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::after {$/;"	class	line:620
+.intro-effect-side .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::after {$/;"	function	line:620
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::before {$/;"	class	line:626
+.intro-effect-side .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::before {$/;"	function	line:626
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .bg-img::before {$/;"	class	line:636
+.intro-effect-side.modify .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .bg-img::before {$/;"	function	line:636
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::after {$/;"	class	line:641
+.intro-effect-side .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .bg-img::after {$/;"	function	line:641
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .bg-img::after {$/;"	class	line:650
+.intro-effect-side.modify .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .bg-img::after {$/;"	function	line:650
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-demos a {$/;"	class	line:658
+.intro-effect-side .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-demos a {$/;"	function	line:658
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-demos a.current-demo {$/;"	class	line:662
+.intro-effect-side .codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .codrops-demos a.current-demo {$/;"	function	line:662
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .title {$/;"	class	line:666
+.intro-effect-side .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .title {$/;"	function	line:666
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .title {$/;"	class	line:675
+.intro-effect-side.modify .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .title {$/;"	function	line:675
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .header h1 {$/;"	class	line:680
+.intro-effect-side .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .header h1 {$/;"	function	line:680
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .header p {$/;"	class	line:688
+.intro-effect-side .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .header p {$/;"	function	line:688
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .header p {$/;"	class	line:695
+.intro-effect-side.modify .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .header p {$/;"	function	line:695
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .content > div {$/;"	class	line:701
+.intro-effect-side .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side .content > div {$/;"	function	line:701
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .content > div {$/;"	class	line:706
+.intro-effect-side.modify .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify .content > div {$/;"	function	line:706
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side button.trigger span::before,$/;"	class	line:710
+.intro-effect-side button.trigger span::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side button.trigger span::before,$/;"	function	line:710
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side button.trigger::before {$/;"	class	line:711
+.intro-effect-side button.trigger::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side button.trigger::before {$/;"	function	line:711
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title,$/;"	class	line:716
+.intro-effect-side:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .title,$/;"	function	line:716
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	class	line:717
+.intro-effect-side:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::before,$/;"	function	line:717
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after {$/;"	class	line:718
+.intro-effect-side:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side:not(.notrans) .bg-img::after {$/;"	function	line:718
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .title,$/;"	class	line:723
+.intro-effect-side.modify:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .title,$/;"	function	line:723
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .bg-img::before,$/;"	class	line:724
+.intro-effect-side.modify:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .bg-img::before,$/;"	function	line:724
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .bg-img::after {$/;"	class	line:725
+.intro-effect-side.modify:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .bg-img::after {$/;"	function	line:725
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .header p:nth-last-child(2) {$/;"	class	line:730
+.intro-effect-side.modify:not(.notrans) .header p:nth-last-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .header p:nth-last-child(2) {$/;"	function	line:730
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .header p:last-child {$/;"	class	line:735
+.intro-effect-side.modify:not(.notrans) .header p:last-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .header p:last-child {$/;"	function	line:735
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .content > div {$/;"	class	line:740
+.intro-effect-side.modify:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-side.modify:not(.notrans) .content > div {$/;"	function	line:740
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before {$/;"	class	line:748
+.intro-effect-sidefixed:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before {$/;"	function	line:748
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after {$/;"	class	line:753
+.intro-effect-sidefixed:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after {$/;"	function	line:753
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title p {$/;"	class	line:758
+.intro-effect-sidefixed:not(.notrans) .title p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title p {$/;"	function	line:758
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .content > div {$/;"	class	line:763
+.intro-effect-sidefixed:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .content > div {$/;"	function	line:763
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before,$/;"	class	line:768
+.intro-effect-sidefixed:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before,$/;"	function	line:768
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after,$/;"	class	line:769
+.intro-effect-sidefixed:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after,$/;"	function	line:769
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title p,$/;"	class	line:770
+.intro-effect-sidefixed:not(.notrans) .title p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title p,$/;"	function	line:770
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .content > div {$/;"	class	line:771
+.intro-effect-sidefixed:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .content > div {$/;"	function	line:771
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .header {$/;"	class	line:778
+.intro-effect-sidefixed .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .header {$/;"	function	line:778
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img {$/;"	class	line:782
+.intro-effect-sidefixed .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img {$/;"	function	line:782
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img img {$/;"	class	line:786
+.intro-effect-sidefixed .bg-img img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img img {$/;"	function	line:786
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::before,$/;"	class	line:791
+.intro-effect-sidefixed .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::before,$/;"	function	line:791
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::after {$/;"	class	line:792
+.intro-effect-sidefixed .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::after {$/;"	function	line:792
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::after {$/;"	class	line:798
+.intro-effect-sidefixed .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::after {$/;"	function	line:798
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .bg-img::after {$/;"	class	line:808
+.intro-effect-sidefixed.modify .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .bg-img::after {$/;"	function	line:808
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::before {$/;"	class	line:813
+.intro-effect-sidefixed .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .bg-img::before {$/;"	function	line:813
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .bg-img::before {$/;"	class	line:819
+.intro-effect-sidefixed.modify .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .bg-img::before {$/;"	function	line:819
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .codrops-demos a {$/;"	class	line:823
+.intro-effect-sidefixed .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .codrops-demos a {$/;"	function	line:823
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title {$/;"	class	line:827
+.intro-effect-sidefixed .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title {$/;"	function	line:827
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .title {$/;"	class	line:836
+.intro-effect-sidefixed.modify .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .title {$/;"	function	line:836
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title h1 {$/;"	class	line:841
+.intro-effect-sidefixed .title h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title h1 {$/;"	function	line:841
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title p {$/;"	class	line:848
+.intro-effect-sidefixed .title p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .title p {$/;"	function	line:848
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .title p {$/;"	class	line:853
+.intro-effect-sidefixed.modify .title p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .title p {$/;"	function	line:853
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content {$/;"	class	line:857
+.intro-effect-sidefixed .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content {$/;"	function	line:857
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content div {$/;"	class	line:863
+.intro-effect-sidefixed .content div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content div {$/;"	function	line:863
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content div:nth-child(2) {$/;"	class	line:869
+.intro-effect-sidefixed .content div:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed .content div:nth-child(2) {$/;"	function	line:869
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .content div:nth-child(2) {$/;"	class	line:875
+.intro-effect-sidefixed.modify .content div:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify .content div:nth-child(2) {$/;"	function	line:875
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title,$/;"	class	line:883
+.intro-effect-sidefixed:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .title,$/;"	function	line:883
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before,$/;"	class	line:884
+.intro-effect-sidefixed:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::before,$/;"	function	line:884
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after {$/;"	class	line:885
+.intro-effect-sidefixed:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed:not(.notrans) .bg-img::after {$/;"	function	line:885
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .title,$/;"	class	line:890
+.intro-effect-sidefixed.modify:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .title,$/;"	function	line:890
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .bg-img::before,$/;"	class	line:891
+.intro-effect-sidefixed.modify:not(.notrans) .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .bg-img::before,$/;"	function	line:891
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .bg-img::after {$/;"	class	line:892
+.intro-effect-sidefixed.modify:not(.notrans) .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .bg-img::after {$/;"	function	line:892
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .content div:nth-child(2) {$/;"	class	line:897
+.intro-effect-sidefixed.modify:not(.notrans) .content div:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-sidefixed.modify:not(.notrans) .content div:nth-child(2) {$/;"	function	line:897
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .header,$/;"	class	line:905
+.intro-effect-push:not(.notrans) .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .header,$/;"	function	line:905
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) > .title,$/;"	class	line:906
+.intro-effect-push:not(.notrans) > .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) > .title,$/;"	function	line:906
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .content > div {$/;"	class	line:907
+.intro-effect-push:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .content > div {$/;"	function	line:907
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .header {$/;"	class	line:914
+.intro-effect-push:not(.notrans) .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push:not(.notrans) .header {$/;"	function	line:914
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .codrops-demos a {$/;"	class	line:921
+.intro-effect-push .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .codrops-demos a {$/;"	function	line:921
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .header {$/;"	class	line:925
+.intro-effect-push .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .header {$/;"	function	line:925
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push > .title {$/;"	class	line:930
+.intro-effect-push > .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push > .title {$/;"	function	line:930
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .content > div {$/;"	class	line:937
+.intro-effect-push .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .content > div {$/;"	function	line:937
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push > .title,$/;"	class	line:942
+.intro-effect-push > .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push > .title,$/;"	function	line:942
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .content > div {$/;"	class	line:943
+.intro-effect-push .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push .content > div {$/;"	function	line:943
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify > .title,$/;"	class	line:949
+.intro-effect-push.modify > .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify > .title,$/;"	function	line:949
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify .content > div {$/;"	class	line:950
+.intro-effect-push.modify .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify .content > div {$/;"	function	line:950
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify .header {$/;"	class	line:956
+.intro-effect-push.modify .header	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify .header {$/;"	function	line:956
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify:not(.notrans) > .title {$/;"	class	line:963
+.intro-effect-push.modify:not(.notrans) > .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify:not(.notrans) > .title {$/;"	function	line:963
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify:not(.notrans) .content > div {$/;"	class	line:968
+.intro-effect-push.modify:not(.notrans) .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-push.modify:not(.notrans) .content > div {$/;"	function	line:968
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .grid li:nth-child(5) {$/;"	class	line:977
+.intro-effect-grid:not(.notrans) .grid li:nth-child(5)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .grid li:nth-child(5) {$/;"	function	line:977
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header p  {$/;"	class	line:982
+.intro-effect-grid:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header p  {$/;"	function	line:982
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .bg-img,$/;"	class	line:987
+.intro-effect-grid:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .bg-img,$/;"	function	line:987
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .title {$/;"	class	line:988
+.intro-effect-grid:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .title {$/;"	function	line:988
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header h1,$/;"	class	line:993
+.intro-effect-grid:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header h1,$/;"	function	line:993
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .codrops-demos a {$/;"	class	line:994
+.intro-effect-grid:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .codrops-demos a {$/;"	function	line:994
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .grid li:nth-child(5),$/;"	class	line:999
+.intro-effect-grid:not(.notrans) .grid li:nth-child(5)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .grid li:nth-child(5),$/;"	function	line:999
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .bg-img,$/;"	class	line:1000
+.intro-effect-grid:not(.notrans) .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .bg-img,$/;"	function	line:1000
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .title,$/;"	class	line:1001
+.intro-effect-grid:not(.notrans) .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .title,$/;"	function	line:1001
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header h1,$/;"	class	line:1002
+.intro-effect-grid:not(.notrans) .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header h1,$/;"	function	line:1002
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header p,$/;"	class	line:1003
+.intro-effect-grid:not(.notrans) .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .header p,$/;"	function	line:1003
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .codrops-demos a {$/;"	class	line:1004
+.intro-effect-grid:not(.notrans) .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid:not(.notrans) .codrops-demos a {$/;"	function	line:1004
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .codrops-demos a {$/;"	class	line:1011
+.intro-effect-grid .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .codrops-demos a {$/;"	function	line:1011
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .codrops-demos a {$/;"	class	line:1015
+.intro-effect-grid.modify .codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .codrops-demos a {$/;"	function	line:1015
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .codrops-demos a.current-demo {$/;"	class	line:1019
+.intro-effect-grid .codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .codrops-demos a.current-demo {$/;"	function	line:1019
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .codrops-demos a.current-demo {$/;"	class	line:1023
+.intro-effect-grid.modify .codrops-demos a.current-demo	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .codrops-demos a.current-demo {$/;"	function	line:1023
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .title {$/;"	class	line:1027
+.intro-effect-grid .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .title {$/;"	function	line:1027
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .title {$/;"	class	line:1032
+.intro-effect-grid.modify .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .title {$/;"	function	line:1032
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .content > div {$/;"	class	line:1037
+.intro-effect-grid .content > div	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .content > div {$/;"	function	line:1037
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header h1 {$/;"	class	line:1042
+.intro-effect-grid .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header h1 {$/;"	function	line:1042
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .header h1 {$/;"	class	line:1048
+.intro-effect-grid.modify .header h1	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .header h1 {$/;"	function	line:1048
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header p {$/;"	class	line:1052
+.intro-effect-grid .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header p {$/;"	function	line:1052
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header p.subline {$/;"	class	line:1057
+.intro-effect-grid .header p.subline	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .header p.subline {$/;"	function	line:1057
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .header p {$/;"	class	line:1061
+.intro-effect-grid.modify .header p	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .header p {$/;"	function	line:1061
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid {$/;"	class	line:1065
+.intro-effect-grid .grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid {$/;"	function	line:1065
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li::after {$/;"	class	line:1077
+.intro-effect-grid .grid li::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li::after {$/;"	function	line:1077
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:hover::after,$/;"	class	line:1090
+.intro-effect-grid.modify .grid li:hover::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:hover::after,$/;"	function	line:1090
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:nth-child(5)::after {$/;"	class	line:1091
+.intro-effect-grid.modify .grid li:nth-child(5)::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:nth-child(5)::after {$/;"	function	line:1091
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li {$/;"	class	line:1095
+.intro-effect-grid .grid li	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li {$/;"	function	line:1095
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li h2 {$/;"	class	line:1106
+.intro-effect-grid .grid li h2	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li h2 {$/;"	function	line:1106
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:hover h2 {$/;"	class	line:1121
+.intro-effect-grid .grid li:hover h2	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:hover h2 {$/;"	function	line:1121
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:first-child {$/;"	class	line:1126
+.intro-effect-grid .grid li:first-child	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:first-child {$/;"	function	line:1126
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(2) {$/;"	class	line:1134
+.intro-effect-grid .grid li:nth-child(2)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(2) {$/;"	function	line:1134
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(3) {$/;"	class	line:1142
+.intro-effect-grid .grid li:nth-child(3)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(3) {$/;"	function	line:1142
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(4) {$/;"	class	line:1150
+.intro-effect-grid .grid li:nth-child(4)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(4) {$/;"	function	line:1150
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(5) {$/;"	class	line:1158
+.intro-effect-grid .grid li:nth-child(5)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(5) {$/;"	function	line:1158
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:nth-child(5) {$/;"	class	line:1169
+.intro-effect-grid.modify .grid li:nth-child(5)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .grid li:nth-child(5) {$/;"	function	line:1169
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(5) h2 {$/;"	class	line:1175
+.intro-effect-grid .grid li:nth-child(5) h2	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(5) h2 {$/;"	function	line:1175
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(6) {$/;"	class	line:1179
+.intro-effect-grid .grid li:nth-child(6)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid .grid li:nth-child(6) {$/;"	function	line:1179
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .bg-img {$/;"	class	line:1187
+.intro-effect-grid.modify .bg-img	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^.intro-effect-grid.modify .bg-img {$/;"	function	line:1187
+@media screen and (max-width: 47em)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^@media screen and (max-width: 47em) {$/;"	function	line:1193
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.title, .content {$/;"	class	line:1194
+.title, .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.title, .content {$/;"	function	line:1194
+.codrops-demos	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.codrops-demos a {$/;"	class	line:1198
+.codrops-demos a	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.codrops-demos a {$/;"	function	line:1198
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side .title {$/;"	class	line:1202
+.intro-effect-side .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side .title {$/;"	function	line:1202
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side.modify .bg-img::before {$/;"	class	line:1209
+.intro-effect-side.modify .bg-img::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side.modify .bg-img::before {$/;"	function	line:1209
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side .bg-img::after {$/;"	class	line:1214
+.intro-effect-side .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side .bg-img::after {$/;"	function	line:1214
+.intro-effect-side	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side.modify .bg-img::after {$/;"	class	line:1222
+.intro-effect-side.modify .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-side.modify .bg-img::after {$/;"	function	line:1222
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-sidefixed .content {$/;"	class	line:1226
+.intro-effect-sidefixed .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-sidefixed .content {$/;"	function	line:1226
+.intro-effect-sidefixed	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-sidefixed .bg-img::after {$/;"	class	line:1231
+.intro-effect-sidefixed .bg-img::after	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-sidefixed .bg-img::after {$/;"	function	line:1231
+@media screen and (max-width: 27em)	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^@media screen and (max-width: 27em) {$/;"	function	line:1237
+.intro-effect-jam3	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-jam3 .content {$/;"	class	line:1238
+.intro-effect-jam3 .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-jam3 .content {$/;"	function	line:1238
+.intro-effect-grid	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-grid .grid li h2 {$/;"	class	line:1242
+.intro-effect-grid .grid li h2	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-grid .grid li h2 {$/;"	function	line:1242
+.intro-effect-push	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-push .header .title {$/;"	class	line:1246
+.intro-effect-push .header .title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.intro-effect-push .header .title {$/;"	function	line:1246
+.title	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.title, .content {$/;"	class	line:1252
+.title, .content	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	.title, .content {$/;"	function	line:1252
+button.trigger::before	/Users/seyhunak/Projects/seyhunak.github.io/assets/stylesheets/component.css	/^	button.trigger::before {$/;"	function	line:1256
