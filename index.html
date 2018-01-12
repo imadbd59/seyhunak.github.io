@@ -1,561 +1,753 @@
-  <!DOCTYPE html>
-  <html lang="en" class="no-js">
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
 
-    <head>
-      <meta charset="UTF-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Seyhun Akyürek / Senior Software Specialist / Consultant</title>
+   <!--- basic page needs
+   ================================================== -->
+  <meta charset="utf-8">
+  <title>Seyhun Akyürek / Senior Software Specialist / Consultant</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-      <meta name="description" content="Seyhun Akyürek working as senior software specialist, writing code using iOS, Swift, Objective-C, Cocoa Touch, Scala, Ruby, Rails Living in Istanbul / Turkey" />
-      <meta name="keywords" content="ios, swift, objective c, ruby, rails" />
-      <meta name="author" content="Seyhun Akyürek" />
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-      <meta name="twitter:card" content="summary">
-      <meta name="twitter:domain" content="seyhunakyurek.com" />
-      <meta name="twitter:title" property="og:title" itemprop="title name" content="Seyhun Akyürek" />
-      <meta name="twitter:description" property="og:description" itemprop="description" content="Seyhun's Developer Story" />
+  <meta name="description" content="Seyhun Akyürek working as senior software specialist, writing code using iOS, Swift, Objective-C, Cocoa Touch, Scala, Ruby, Rails Living in Istanbul / Turkey" />
+  <meta name="keywords" content="ios, swift, objective c, ruby, rails" />
+  <meta name="author" content="Seyhun Akyürek" />
 
-      <meta property="og:type" content="website" />
-      <meta property="og:image" itemprop="image primaryImageOfPage" content="https://www.gravatar.com/avatar/752f46a244e2f617b77ea15b6e310a63?s=200&amp;r=PG&amp;d=https://i.stack.imgur.com/T119o.png" />
-      <meta property="og:url" content="http://seyhunakyurek.com" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:domain" content="seyhunakyurek.com" />
+  <meta name="twitter:title" property="og:title" itemprop="title name" content="Seyhun Akyürek" />
+  <meta name="twitter:description" property="og:description" itemprop="description" content="Seyhun's Developer Story" />
 
-      <link rel="shortcut icon" href="assets/images/favicon.ico">
-      <link rel="stylesheet" type="text/css" href="assets/stylesheets/normalize.css" />
-      <link rel="stylesheet" type="text/css" href="assets/stylesheets/main.css" />
-      <link rel="stylesheet" type="text/css" href="assets/stylesheets/component.css" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" itemprop="image primaryImageOfPage" content="https://www.gravatar.com/avatar/752f46a244e2f617b77ea15b6e310a63?s=200&amp;r=PG&amp;d=https://i.stack.imgur.com/T119o.png" />
+  <meta property="og:url" content="http://seyhunakyurek.com" />
 
-      <!--[if IE]>
-        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-      <![endif]-->
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">
+   <link rel="stylesheet" href="css/main.css">
+   <link rel="stylesheet" href="css/vendor.css">
 
-      <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+   <!-- script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+	<script src="js/pace.min.js"></script>
 
-    ga('create', 'UA-20823915-2', 'auto');
-    ga('send', 'pageview');
+   <!-- favicons
+	================================================== -->
+	<link rel="icon" type="image/png" href="favicon.png">
 
-      </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20823915-2', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+</head>
+
+<body id="top">
+
+	<!-- intro section
+   ================================================== -->
+
+   <section id="intro">
+
+   	<div class="intro-overlay"></div>
+
+   	<div class="intro-content">
+   		<div class="row">
+
+   			<div class="col-twelve">
+
+	   			<h5>Hello, World.</h5>
+	   			<h1>I'm Seyhun Akyürek</h1>
+
+	   			<p class="intro-position">
+	   				<span>Senior Software Specialist.</span>
+	   				<span>IOS Developer at eBay / Gittigidiyor</span>
+	   			</p>
+
+	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
+
+	   		</div>
+
+   		</div>
+   	</div> <!-- /intro-content -->
+
+   	<ul class="intro-social">
+         <li><a href="http://twitter.com/seyhunak"><i class="fa fa-twitter"></i></a></li>
+         <li><a href="http://facebook.com/seyhunak"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="http://instagram.com/seyhunakyurek"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="http://github.com/seyhunak"><i class="fa fa-github"></i></a></li>
+         <li><a href="http://stackoverflow.com/users/236598/seyhun-akyürek"><i class="fa fa-stack-overflow"></i></a></li>
+         <li><a href="http://hackerrank.com/seyhunak"><i class="fa fa-hacker-news"></i></a></li>
+         <li><a href="https://www.slideshare.net/seyhunak"><i class="fa fa-slideshare"></i></a></li>
+         <li><a href="http://behance.com/seyhunak"><i class="fa fa-behance"></i></a></li>
+         <li><a href="http://dribble.com/seyhunak"><i class="fa fa-dribbble"></i></a></li>
+         <li><a href="https://calendly.com/seyhunak/15min"><i class="fa fa-calendar"></i></a></li>
+      </ul> <!-- /intro-social -->
+
+   </section> <!-- /intro -->
 
 
-    </head>
-    <body>
+   <!-- about section
+   ================================================== -->
 
+   <section id="about">
 
-      <div id="container" class="container intro-effect-jam3">
+   	<div class="row section-intro">
+   		<div class="col-twelve">
+   			<h5>About</h5>
+   			<h1>I'm Seyhun Akyürek, Senior Software Specialist. Working at eBay / GittiGidiyor
+        </h1>
 
-      <!-- Top Navigation -->
-      <div class="codrops-top clearfix">
-        <span class="right">
-          <a class="codrops-icon codrops-icon" target="_blank" href="http://zerply.com/seyhunak">
-            <span>Do you have project in mind? Hire Me</span>
-          </a></span>
-      </div>
-
-      <header class="header">
-
-        <div class="bg-img">
-          <img src="assets/images/background.jpg" alt="Background Image"/>
-        </div>
-
-        <div class="title">
-          <h1>Seyhun Akyürek</h1>
-          <p class="subline">working as Senior Software Specialist, currently writing code using <strong>iOS, Swift, Objective-C, Cocoa Touch, Ruby, Rails</strong>
-            Living in <strong>Istanbul / Turkey</strong>
+   			<div class="intro-info">
+   				<img src="images/profile.jpg" alt="Profile Picture">
+   				<p class="lead">
+                Currently writing code using <strong>iOS, Swift, Objective-C, Cocoa Touch, Ruby, Rails</strong>
+                Living in <strong>Istanbul / Turkey</strong>
           </p>
+   			</div>
 
-            <p>Here is my
-              <strong><a target="_blank" href="http://stackoverflow.com/story/seyhunak">Developer story</a></strong> and
-              <strong><a target="_blank" href="http://stackoverflow.com/cv/seyhunak">CV</a></strong>
-            </p>
+   		</div>
+   	</div> <!-- /section-intro -->
 
-              <p>Follow me on
-                <strong><a target="_blank" href="http://twitter.com/seyhunak">Twitter</a></strong>
-                <strong><a target="_blank" href="http://facebook.com/seyhunak">Facebook</a></strong>
-                <strong><a target="_blank" href="http://linkedin.com/seyhunak">Linkedin</a></strong>
-                <strong><a target="_blank" href="http://github.com/seyhunak">Github</a></strong>
-                <strong><a target="_blank" href="http://stackoverflow.com/users/236598/seyhun-akyürek">Stackoverflow</a></strong>
-                <strong><a target="_blank" href="https://www.hackerrank.com/seyhunak">Hackerrank</a></strong>
-                <strong><a target="_blank" href="https://www.slideshare.net/seyhunak?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview">Slideshare</a></strong>
-              </p>
+   	<div class="row about-content">
+   		<div class="col-six tab-full">
+   			<h3>Profile</h3>
+        <p>
+          Perfectionalist. Good at Kitchen, I love to cook. Bicycle lover. Playing video games.
+          Loves theaters, Loves Books. Loves to do Yoga everyday. Going outdoors. Travels around the world.
+          which including Thailand, Russia / Samara. Planning to travel including Barcelona, Amsterdam, Bangkok, Malta, Cambodia, Vietnam.
+        </p>
 
-              <p>Blogging on
-                <strong><a target="_blank" href="https://medium.com/@seyhunak">Medium @seyhunak</a></strong>
-              </p>
+   			<ul class="info-list">
+   				<li>
+   					<strong>Fullname:</strong>
+   					<span>Seyhun Akyurek</span>
+   				</li>
+   				<li>
+   					<strong>Job:</strong>
+   					<span>eBay, GittiGidiyor</span>
+   				</li>
+   				<li>
+   					<strong>Website</strong>
+   					<span>seyhunakyurek.com</span>
+   				</li>
+   				<li>
+   					<strong>Email:</strong>
+   					<span>seyhunak [at] gmail.com</span>
+   				</li>
 
-              <p>Did you have an idea?
-                <strong><a target="_blank" href="https://calendly.com/seyhunak/30min/">Schedule 15m - 30m. meetup</a></strong>
-              </p>
+   			</ul> <!-- /info-list -->
+   		</div>
 
-        </div>
-        <div class="bg-img"><img src="assets/images/background.jpg" alt="Background Image" /></div>
-      </header>
+   		<div class="col-six tab-full">
+   			<h3>Skills</h3>
+        <p> Typically 8+ years directly related experience of software development and/or enterprise software implementation experience from startups to enterprise in eCommerce, real-time messaging, payment, fin-tech area</p>
+        <p>Over 4+ years of experience in designing & developing mobile applications, UI applications, integrating with various Databases and Client-Server applications and working experience in iOS Development. Starting from Objective C to Swift.</p>
 
-      <button class="trigger" data-info="Click to learn more about me!"><span>Trigger</span></button>
+        <h3>Open Source</h3>
+        <p>Built and contributed open source projects including popular twitter-bootstrap-rails Twitter Bootstrap for Rails 3.x - 4 Asset Pipeline project. (around 5k stars, 1k fork)
+        Reviewed pull requests, merged pull requests, and verified reported issues on open source projects</p>
 
-      <article class="content">
-        <div>
-          <h1>Development (Current / Past)</h1>
-          <ul>
-            <li> Over 3+ years of experience in designing & developing mobile applications, UI applications, integrating with various Databases and Client-Server applications and working experience in iOS Development. Starting from Objective C to Swift.</li>
-            <li> Expertise in Object Oriented Programming concepts in Objective-C and C++ with a expert knowledge on Swift. </li>
-            <li> Proficiency in implementing design patterns such as MVC, MVVP, MVP architectures, singleton, delegation, target-action along with other concepts like categories and protocols in Swift </li>
-            <li> Deep expertise in creating application user interface (UI) using storyboard and ". xib" files, customizing views, navigation bars and controllers using UIKit framework.</li>
-            <li> Strong experience on various media player frameworks such as CoreGraphics, AVFoundation, CoreImage, MediaPlayer, QuartzCore; and core service Frameworks such as AddressBook, CoreLocation, and CFNetwork. </li>
-            <li> Strong experience on Apple's API's for Text To Speech and Speech To Text implementations </li>
-            <li> Experience in creating databases using SQLite, Coredata and Realm to handle online/offline usage. </li>
-            <li> Demonstrated ability in integrating third party API's including Facebook, Twitter, Foursquare, Google and Stripe into several applications. </li>
-            <li> Expertise in using third party libraries such as Alamofire, AFNetworking to integrate additional functionality into applications. </li>
-            <li> Expertise in using Unidirectional Data flow structures in IOS applications, following Redux approach </li>
-            <li> Experience in multithreading using Grand Central Dispatch (GCD) and Operation queues in order to achieve optimum performance. </li>
-            <li> Experience in using RESTful web-services to provide connections to back end services and handling data using parsers with formats like JSON and XML. </li>
-          </ul>
+				<ul class="skill-bars">
+				   <li>
+				   	<div class="progress percent95"><span>95%</span></div>
+				   	<strong>Swift</strong>
+				   </li>
+				   <li>
+				   	<div class="progress percent85"><span>85%</span></div>
+				   	<strong>Objective-C</strong>
+				   </li>
+				   <li>
+				   	<div class="progress percent75"><span>75%</span></div>
+				   	<strong>Ruby / Ruby On Rails</strong>
+				   </li>
+           <li>
+            <div class="progress percent60"><span>60%</span></div>
+            <strong>Javascript</strong>
+           </li>
+				   <li>
+				   	<div class="progress percent50"><span>50%</span></div>
+				   	<strong>Blockchain</strong>
+				   </li>
+           <li>
+				   	<div class="progress percent90"><span>90%</span></div>
+				   	<strong>Agile Development / Scrum</strong>
+				   </li>
+				</ul> <!-- /skill-bars -->
 
-          <h1>Workspace (Current / Past)</h1>
-            <ul>
-              <li> In-depth experience in software development lifecycle (SDLC) and Agile/Scrum development methodologies. </li>
-              <li> Experience in backend development background about 3+ years of Ruby, Ruby On Rails, Python</li>
-              <li> Used cutting edge tools, microservices and third party API's</li>
-              <li> Broad knowledge of industry trends and pitfalls; ability to distill information and develop clear insights.</li>
-              <li> Expert knowledge of agile development based on real world delivery of products with focus on quality, cost, and speed-to-market</li>
-              <li> Decided and applied platform selection and technical design.</li>
-              <li> From brainstorming through deployment, I worked cross functionally with members of organization to deliver the necessary deliverables</li>
-              <li> I had knowledge about for definition, design, development and successful, timely completion of new features in current and future products.</li>
-              <li> Implemented design reviews, code reviews to ensure quality of software in existing products.</li>
-              <li> Designed and implemented new user-facing features in large, complex mobile applications.</li>
+   		</div>
+   	</div>
+
+    <div class="row section-intro">
+   		<div class="col-twelve">
+
+        <div class="row">
+           <div class="col-twelve">
+              <ul class="stats-tabs">
+               <li><a href="#">11<em>Projects</em></a></li>
+               <li><a href="#">5000+<em>Followers</em></a></li>
+               <li><a href="#">10300<em>Steps</em></a></li>
+               <li><a href="#">3<em>Books Reading</em></a></li>
+               <li><a href="#">30<em>Minutes of Yoga</em></a></li>
             </ul>
+           </div>
+        </div> <!-- /row -->
 
-          <h1>Expertise (Current / Past)</h1>
-          <ul>
-            <li> Typically 7+ years directly related experience of software development and/or enterprise software implementation experience</li>
-            <li> Advanced disciplinary knowledge of iOS, Swift, Cocoa Touch, Objective-C software engineering processes, tools, methods, test driven development.</li>
-            <li> Solid experience of object-oriented programming</li>
-            <li> Knowledge of memory management and multi-threading</li>
-            <li> Experience with Cocoa APIs on OS X</li>
-            <li> Strong foundation in RESTful APIs to connect to back-end services</li>
-            <li> Strong foundation in Apple’s design principles and interface guidelines</li>
-            <li> Good knowledge of performance limits and characteristics, benchmarking and optimization</li>
-            <li> Proficient understanding of code versioning tools, such as Git and distributed versioning control.</li>
-            <li> Strong knowledge in continuous integration (XCode Server, Jenkins, Teamcity)</li>
-            <li> Debugging and optimizing consumer facing mobile applications for performance and scale.</li>
-            <li> Maintained Amazon EC2, Amazon RDS, Amazon S3, Apache VPC servers for internal / external projects</li>
-            <li> Shipped code on projects with an agile, test-driven development</li>
-            <li> Extensive experience with rspec, rails, ruby, jQuery and Angular.js, Mustache.js and underscore.js</li>
-            <li> Twitter, Facebook, Instagram, FourSquare API's</li>
-            <li> JSON, JSONP, XML protocols</li>
-            <li> Using Git for version control, revisions, contribution to open source projects.</li>
-          </ul>
 
-          <h1>Open Source</h1>
-          <ul>
-            <li> Built and contributed open source projects including popular
-              <a href="https://github.com/seyhunak/twitter-bootstrap-rails">twitter-bootstrap-rails</a>
-              Twitter Bootstrap for Rails 3.x - 4 Asset Pipeline project. (around 5k stars, 1k fork)
-            </li>
-            <li> Reviewed pull requests, merged pull requests, and verified reported issues on open source projects</li>
-          </ul>
+   			<h5>Chat with me</h5>
+   			<h1>You can learn more about me.</h1>
+   			<p class="lead">This is my chat-bot, you can ask and learn about me, about my projects, availability and so on...</p>
+        <iframe src="https://api.motion.ai/webchat/84654?color=54555D&sendBtn=Ask&inputBox=Ask%20me%20something...&token=d642f59076b3671af610e9cd399bb011" width="100%" height="400" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-          <h1>Projects</h1>
+   		</div>
+   	</div> <!-- /section-intro-->
 
-          <h2>
-           <a name="ebay" class="anchor" href="#ebay">
-             <span class="octicon octicon-link"></span></a>
-             <a href="http://www.ebay.com">eBay | Gittigidiyor
-             </a>
-          </h2>
+   	<div class="row button-section">
+   		<div class="col-twelve">
+   			<a href="http://zerply.com/seyhunak" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
+   			<a href="http://stackoverflow.com/story/seyhunak" title="Download My Story" class="button button-primary">My Story</a>
+        <a href="http://stackoverflow.com/cv/seyhunak" title="Download My CV" class="button button-primary">My CV</a>
+   		</div>
+   	</div>
 
-          <p>Senior IOS Developer at eBay</p>
-            <p>Working on eBay/Gittigidiyor's IOS applications (iPhone, iPad) Gittigidiyor is the leading e-commerce application in Turkey. I'm using Objective-C extensively. SOAPUI, Jira, Confluence, Slack for team messasing and adapting agile development model using Scrum framework.</p>
+   </section> <!-- /process-->
 
-            <ul>
-              <li>Working on IOS applications (iPhone, iPad) and architecture built using Objective-C</li>
-              <li>Developing new features built using Objective-C, REST APIs.</li>
-            </ul>
 
-           <h2>
-             <a name="dreamsandbytes" class="anchor" href="#dreamsandbytes">
-               <span class="octicon octicon-link"></span></a><a href="http://www.dreamsandbytes.com">Dreams & Bytes
-             </a>
-             <br>
-             <a name="fanfan" class="anchor" href="#fanfan">
-               <span class="octicon octicon-link"></span></a>
-               <a href="https://appsto.re/tr/uXcrhb.i">FanFan
-              </a>
+   <!-- resume Section
+   ================================================== -->
+	<section id="resume" class="grey-section">
 
-           </h2>
+		<div class="row section-intro">
+   		<div class="col-twelve">
 
-           <p>
-             Worked as Senior IOS developer on realtime messaging IOS application called FanFan. Using Swift, Firebase, Implementing Unidirectional Data Flow Architecture, MVP, Clean Architecture in Swift 3
-             <br>
-           </p>
+   			<h5>Resume</h5>
+   			<h1>More of from me.</h1>
+   			<p class="lead">
+          You can see my work experience below, in different startups / enterprise level companies I'm currently working and worked in previously.
+        </p>
 
-           <ul>
-             <li>Built architecture using Swift, Protocol Oriented Programming, MVP, Test Driven Development, TeamCity CI, REST APIs.</li>
-             <li>Implemented Firebase realtime architecture, microservices, notifications</li>
-             <li>Working on Realtime API's and related micro-services.</li>
-             <li>Worked on Agile based development model.</li>
-             <li>Worked extensively with Swift 3</li>
-             <li>Working with native and third party frameworks. </li>
-             <li>Customized the table view cells depending on the design requirement. </li>
-             <li>Used Storyboard to design the UI wireframes of the application. </li>
-             <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
-             <li>Used Zeplin / Photoshop tool for designs. </li>
-             <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
-             <li>Worked on web service calls, XML and JSON parsing.</li>
-             <li>Followed the apple UI guidelines throughout the project. </li>
-             <li>Created the View Controllers by both programming and through Interface Builder. </li>
-             <li>Proposed mobile friendly design approaches needed to develop the app. </li>
-             <li>Used BitBucket for code sharing and Jira for project tracking.</li>
-             <li>Used HockeyApp for testing, beta releases and crash reporting</li>
-             <li>Environment: iOS 8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVP architecture, RESTful JSON web services.</li>
-           </ul>
+   		</div>
+   	</div> <!-- /section-intro-->
 
-          <h2>
-           <a name="mateli" class="anchor" href="#mateli">
-             <span class="octicon octicon-link"></span></a><a href="http://www.gk-group.com">Mateli</a>
-           </h2>
+   	<div class="row resume-timeline">
 
-           <p>Worked as Senior IOS/Swift engineer on Mateli's mobile banking project</p>
-           <ul>
-             <li>Built architecture using Swift, Protocol Oriented Programming, MVVM, Test Driven Development, TeamCity CI, Jenkins CI and enterprise grade-level tools, financial microservices, REST APIs.</li>
-             <li>Implemented Mateli's payment architecture, microservices</li>
-             <li>Worked on Face Recognition API, Voice Recognation, Fraud Prevention and payment related micro-services.</li>
-             <li>Worked on Agile based development model.</li>
-             <li>Worked extensively with Swift and Objective C. </li>
-             <li>Experience in working with native and third party frameworks. </li>
-             <li>Customized the table view cells depending on the design requirement. </li>
-             <li>Used Storyboard to design the UI wireframes of the application. </li>
-             <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
-             <li>Used Zeplin tool for designs. </li>
-             <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
-             <li>Worked on web service calls, XML and JSON parsing.</li>
-             <li>Followed the apple UI guidelines throughout the project. </li>
-             <li>Created the View Controllers by both programming and through Interface Builder. </li>
-             <li>Proposed mobile friendly design approaches needed to develop the app. </li>
-             <li>Used BitBucket for code sharing and Jira for project tracking.</li>
-             <li>Used continuous integration Teamcity to build / test / deploy to Mateli IOS project.</li>
-             <li>Used Fabric for testing, beta releases and crash reporting</li>
-             <li>Environment: iOS 8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVVM architecture, RESTful JSON web services.</li>
-           </ul>
+   		<div class="col-twelve resume-header">
 
-           <h2>
-             <a name="historide" class="anchor" href="#historide">
-             <span class="octicon octicon-link"></span></a><a href="https://itunes.apple.com/us/app/historide-social-network-for/id1090434590?mt=8">Historide</a>
-           </h2>
+   			<h2>Work Experience</h2>
 
-           <p>Worked as Senior IOS/Swift / Backend (FullStack) developer on Historide</p>
-           <ul>
-             <li>Built application using Swift, MVC Pattern, VCS, Rails</li>
-             <li>As an part-time provided support to Historide's backend stack and architecture</li>
-             <li>Implemented new features to IOS application built using Swift and
-              implemented backend services</li>
-             <li>Worked on web service calls, XML and JSON parsing.</li>
-             <li>Used SVN for code sharing and Asana for project tracking.</li>
-             <li>Environment: iOS 8/9 iPhone SDK, Swift, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
-           </ul>
+   		</div> <!-- /resume-header -->
 
-           <h2>
-            <a name="ingbank" class="anchor" href="#ingbank">
-              <span class="octicon octicon-link"></span></a><a href="http://ingbank.com.tr">INGBank</a>
-            </h2>
+   		<div class="col-twelve">
 
-            <p>Worked as Senior IOS/Swift developer on INGBank's mobile project</p>
-            <ul>
-              <li>Swift application using enterprise grade tools.</li>
-              <li>Implementing INGBank's enterprise payment architecture</li>
-              <li>Worked on Agile based development model.</li>
-              <li>Worked extensively with Swift and Objective C. </li>
-              <li>Experience in working with native and third party frameworks. </li>
-              <li>Customized the table view cells depending on the design requirement. </li>
-              <li>Used Storyboard to design the UI wireframes of the application. </li>
-              <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
-              <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
-              <li>Worked on web service calls, XML and JSON parsing.</li>
-              <li>Followed the apple UI guidelines throughout the project. </li>
-              <li>Localized application using Strings files</li>
-              <li>Created the View Controllers by both programming and through Interface Builder. </li>
-              <li>Used Git for code sharing and Team Foundation Server for project tracking.</li>
-              <li>Environment: iOS 7/8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
-            </ul>
+   			<div class="timeline-wrap">
 
-           <h2>
-            <a name="studio" class="anchor" href="#studio">
-              <span class="octicon octicon-link"></span></a><a href="http://getstudio.co">Studio</a>
-            </h2>
+   				<div class="timeline-block">
 
-            <p>Worked as Senior Swift developer on Studio project, managed the team, implemented latest realtime technologies, messaging architecture</p>
-            <ul>
-              <li>Swift, Objective-C application using Firebase, Parse, Parse Analytics and Parse Push Notifications</li>
-              <li>Developed Realtime messaging interface for notification system</li>
-              <li>Extensive API interfaces used (Parse API, Parse Cloud functions)</li>
-              <li>Used highly scalable mobile backend system. i.e. Firebase</li>
-              <li>User authentication via Facebook via Parse</li>
-              <li>Worked extensively with Swift and Objective C. </li>
-              <li>Experience in working with native and third party frameworks. </li>
-              <li>Customized the table view cells depending on the design requirement. </li>
-              <li>Used Storyboard to design the UI wireframes of the application. </li>
-              <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
-              <li>Worked on web service calls, XML and JSON parsing.</li>
-              <li>Followed the apple UI guidelines throughout the project. </li>
-              <li>Localized application using Strings files</li>
-              <li>Created the View Controllers by both programming and through Interface Builder. </li>
-              <li>Used Git for code sharing and Jira for project tracking.</li>
-              <li>Environment: iOS 7/8/9 iPhone SDK, Swift, Objective-C, Xcode 6.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
-            </ul>
+	   				<div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+	   				</div>
 
-           <h2>
-            <a name="introduce" class="anchor" href="#introduce">
+	   				<div class="timeline-header">
+	   					<h3>Senior IOS Developer at eBay</h3>
+	   					<p>May 2017 - Present</p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<h4>eBay</h4>
+              <p>Working on Gittigidiyor's iPhone, iPad applications. GittiGidiyor is the leading e-commerce application in Turkey</p>
+
+              <ul>
+                <li>Using Objective-C extensively. SOAPUI, Jira, Confluence, Slack for team messaging</li>
+                <li>Using Xcode and Appcode for application development</li>
+                <li>Adapted to the agile development model using Scrum framework.</li>
+                <li>Working on application architecture built using Objective-C, Service Oriented Domain Model</li>
+                <li>Working on new features built using Objective-C, REST APIs.</li>
+                <li>Implemented Secure Card Payment Gateway using MobilExpress, using PCI DSS Level 1 Security Architecture</li>
+                <li>Implemented Marketing integrations, Google SDK, Adjust, Omniture, Universal Linking, Deeplinking</li>
+              </ul>
+
+               See in App-store: <a name="ebay" class="anchor" href="#ebay">
+                <span class="octicon octicon-link"></span></a>
+                <a href="http://www.ebay.com">eBay | Gittigidiyor
+                </a>
+
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>Senior IOS Developer</h3>
+	   					<p>Jan 2017 - May 2017</p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<h4>Dreams & Bytes Agency</h4>
+	   					<p>Worked as Senior IOS developer on realtime messaging IOS application called FanFan. Using Swift, Firebase, Implementing Unidirectional Data Flow Architecture, MVP, Clean Architecture in Swift 3</p>
+
+              <ul>
+                <li>Built architecture using Swift, Protocol Oriented Programming, MVP, Test Driven Development, TeamCity CI, REST APIs.</li>
+                <li>Implemented Firebase realtime architecture, microservices, notifications</li>
+                <li>Working on Realtime API's and related micro-services.</li>
+                <li>Worked on Agile based development model.</li>
+                <li>Worked extensively with Swift 3</li>
+                <li>Working with native and third party frameworks. </li>
+                <li>Customized the table view cells depending on the design requirement. </li>
+                <li>Used Storyboard to design the UI wireframes of the application. </li>
+                <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
+                <li>Used Zeplin / Photoshop tool for designs. </li>
+                <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
+                <li>Worked on web service calls, XML and JSON parsing.</li>
+                <li>Followed the apple UI guidelines throughout the project. </li>
+                <li>Created the View Controllers by both programming and through Interface Builder. </li>
+                <li>Proposed mobile friendly design approaches needed to develop the app. </li>
+                <li>Used BitBucket for code sharing and Jira for project tracking.</li>
+                <li>Used HockeyApp for testing, beta releases and crash reporting</li>
+                <li>Environment: iOS 8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVP architecture, RESTful JSON web services.</li>
+              </ul>
+
+              See in App-store: <a name="fanfan" class="anchor" href="#fanfan">
+                <span class="octicon octicon-link"></span></a>
+                <a href="https://appsto.re/tr/uXcrhb.i">FanFan
+               </a>
+
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>Mateli</h3>
+	   					<p>May 2016 - Jan 2017</p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<h4>Mateli eBanking / Fin-Tech</h4>
+              <p>Worked as Senior IOS/Swift engineer on Mateli's mobile banking project</p>
+
+              <ul>
+                <li>Built architecture using Swift, Protocol Oriented Programming, MVVM, Test Driven Development, TeamCity CI, Jenkins CI and enterprise grade-level tools, financial microservices, REST APIs.</li>
+                <li>Implemented Mateli's payment architecture, microservices</li>
+                <li>Worked on Face Recognition API, Voice Recognation, Fraud Prevention and payment related micro-services.</li>
+                <li>Worked on Agile based development model.</li>
+                <li>Worked extensively with Swift and Objective C. </li>
+                <li>Experience in working with native and third party frameworks. </li>
+                <li>Customized the table view cells depending on the design requirement. </li>
+                <li>Used Storyboard to design the UI wireframes of the application. </li>
+                <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
+                <li>Used Zeplin tool for designs. </li>
+                <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
+                <li>Worked on web service calls, XML and JSON parsing.</li>
+                <li>Followed the apple UI guidelines throughout the project. </li>
+                <li>Created the View Controllers by both programming and through Interface Builder. </li>
+                <li>Proposed mobile friendly design approaches needed to develop the app. </li>
+                <li>Used BitBucket for code sharing and Jira for project tracking.</li>
+                <li>Used continuous integration Teamcity to build / test / deploy to Mateli IOS project.</li>
+                <li>Used Fabric for testing, beta releases and crash reporting</li>
+                <li>Environment: iOS 8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVVM architecture, RESTful JSON web services.</li>
+              </ul>
+
+              See in App-store: <a name="mateli" class="anchor" href="#mateli">
+                <span class="octicon octicon-link"></span></a>
+                <a href="https://mateli.com">Mateli
+               </a>
+
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+
+
+
+          <!-- /timeline-block -->
+
+          <div class="timeline-block">
+
+            <div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+            </div>
+
+            <div class="timeline-header">
+              <h3>Historide</h3>
+              <p>May 2016 - Jan 2017</p>
+            </div>
+
+            <div class="timeline-content">
+              <h4>Historide</h4>
+              <p>Worked as Senior IOS/Swift / FullStack developer on Historide</p>
+
+              <ul>
+                <li>Built application using Swift, MVC Pattern, VCS, Rails</li>
+                <li>As an part-time provided support to Historide's backend stack and architecture</li>
+                <li>Implemented new features to IOS application built using Swift and
+                 implemented backend services</li>
+                <li>Worked on web service calls, XML and JSON parsing.</li>
+                <li>Used SVN for code sharing and Asana for project tracking.</li>
+                <li>Environment: iOS 8/9 iPhone SDK, Swift, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
+              </ul>
+
+              See in App-store: <a name="historide" class="anchor" href="#historide">
+                <span class="octicon octicon-link"></span></a>
+                <a href="https://historide.com">Historide
+               </a>
+
+            </div>
+
+          </div> <!-- /timeline-block -->
+
+
+
+          <!-- /timeline-block -->
+
+          <div class="timeline-block">
+
+            <div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+            </div>
+
+            <div class="timeline-header">
+              <h3>INGBank</h3>
+              <p>May 2016 - Jan 2017</p>
+            </div>
+
+            <div class="timeline-content">
+              <h4>INGBank</h4>
+              <p>Worked as Senior IOS/Swift developer on INGBank's mobile project</p>
+
+              <ul>
+                <li>Swift application using enterprise grade tools.</li>
+                <li>Implementing INGBank's enterprise payment architecture</li>
+                <li>Worked on Agile based development model.</li>
+                <li>Worked extensively with Swift and Objective C. </li>
+                <li>Experience in working with native and third party frameworks. </li>
+                <li>Customized the table view cells depending on the design requirement. </li>
+                <li>Used Storyboard to design the UI wireframes of the application. </li>
+                <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
+                <li>Worked in tandem with the web service team to discuss the interface required along with changes the interface required. </li>
+                <li>Worked on web service calls, XML and JSON parsing.</li>
+                <li>Followed the apple UI guidelines throughout the project. </li>
+                <li>Localized application using Strings files</li>
+                <li>Created the View Controllers by both programming and through Interface Builder. </li>
+                <li>Used Git for code sharing and Team Foundation Server for project tracking.</li>
+                <li>Environment: iOS 7/8/9 iPhone SDK, Swift, Objective-C, Xcode 7.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
+              </ul>
+
+              See in App-store: <a name="ingbank" class="anchor" href="#ingbank">
+                <span class="octicon octicon-link"></span></a>
+                <a href="https://ingbank.com.tr">INGBank
+               </a>
+
+            </div>
+
+          </div> <!-- /timeline-block -->
+
+
+
+          <!-- /timeline-block -->
+
+          <div class="timeline-block">
+
+            <div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+            </div>
+
+            <div class="timeline-header">
+              <h3>Studio</h3>
+              <p>May 2016 - Jan 2017</p>
+            </div>
+
+            <div class="timeline-content">
+              <h4>Studio</h4>
+              <p>Worked as Senior Swift developer on Studio project, managed the team, implemented latest realtime technologies, messaging architecture</p>
+
+              <ul>
+                <li>Swift, Objective-C application using Firebase, Parse, Parse Analytics and Parse Push Notifications</li>
+                <li>Developed Realtime messaging interface for notification system</li>
+                <li>Extensive API interfaces used (Parse API, Parse Cloud functions)</li>
+                <li>Used highly scalable mobile backend system. i.e. Firebase</li>
+                <li>User authentication via Facebook via Parse</li>
+                <li>Worked extensively with Swift and Objective C. </li>
+                <li>Experience in working with native and third party frameworks. </li>
+                <li>Customized the table view cells depending on the design requirement. </li>
+                <li>Used Storyboard to design the UI wireframes of the application. </li>
+                <li>Used IB for Multiview-architecture in XIB using auto layouts, and customizing it using code. </li>
+                <li>Worked on web service calls, XML and JSON parsing.</li>
+                <li>Followed the apple UI guidelines throughout the project. </li>
+                <li>Localized application using Strings files</li>
+                <li>Created the View Controllers by both programming and through Interface Builder. </li>
+                <li>Used Git for code sharing and Jira for project tracking.</li>
+                <li>Environment: iOS 7/8/9 iPhone SDK, Swift, Objective-C, Xcode 6.x, Interface-Builder, Cocoa Touch, UIKit framework, MVC architecture, RESTful JSON web services.</li>
+              </ul>
+
+              See in App-store: <a name="studio" class="anchor" href="#studio">
+                <span class="octicon octicon-link"></span></a>
+                <a href="http://getstudio.co">Studio
+               </a>
+
+            </div>
+
+          </div> <!-- /timeline-block -->
+
+
+
+          <!-- /timeline-block -->
+
+          <div class="timeline-block">
+
+            <div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+            </div>
+
+            <div class="timeline-header">
+              <h3>Introduce</h3>
+              <p>May 2016 - Jan 2017</p>
+            </div>
+
+            <div class="timeline-content">
+              <h4>Introduce</h4>
+              <p>Introduce is the social connection application built using IOS platform in Swift. Worked as Lead developer on introduceapp.me project, managed the team and implemented latest web technologies and mobile methodologies.</p>
+
+              <ul>
+                <li>Ruby on Rails application with MySQL, MongoDB, Redis database</li>
+                <li>RESTFUL API Interface for mobile application, built on Rails application with MySQL, MongoDB, Redis database</li>
+                <li>Developed Realtime messaging interface for notification system</li>
+                <li>Extensive API interfaces used (Twitter Search API, REST API and Streaming API)</li>
+                <li>Built highly scalable web backend</li>
+                <li>User authentication via Twitter</li>
+              </ul>
+
+              See in App-store:<a name="introduce" class="anchor" href="#introduce">
               <span class="octicon octicon-link"></span></a><a href="http://introduceapp.me">Introduce</a>
-            </h2>
 
-            <p>Worked as Lead developer on introduceapp.me project, managed the team, implemented latest web technologies and methodologies.</p>
-            <ul>
-              <li>Complex Rails application with MySQL, MongoDB, Redis database</li>
-              <li>RESTFUL API Interface for mobile application, built on Rails application with MySQL, MongoDB, Redis database</li>
-              <li>Developed Realtime messaging interface for notification system</li>
-              <li>Extensive API interfaces used (Twitter Search API, REST API and Streaming API)</li>
-              <li>Built highly scalable web backend</li>
-              <li>User authentication via Twitter</li>
-            </ul>
 
-            <h2>
-              <a name="pointro" class="anchor" href="#pointro">
-                <span class="octicon octicon-link"></span></a><a href="http://pointro.me">Pointro</a>
-            </h2>
+            </div>
 
+          </div> <!-- /timeline-block -->
+
+        <div class="timeline-block">
+
+          <div class="timeline-ico">
+            <i class="fa fa-briefcase"></i>
+          </div>
+
+          <div class="timeline-header">
+            <h3>Web Applications built using Ruby On Rails / Javascript</h3>
+            <p>May 2016 - Jan 2017</p>
+          </div>
+
+          <div class="timeline-content">
+            <h4>Pointro</h4>
             <p>Worked as Lead developer on pointro.me (SAAS) project, managed the team, implemented latest web technologies and methodologies.</p>
 
             <ul>
-              <li>Complex Rails application with MySQL, MongoDB, Redis database</li>
+              <li>Ruby On Rails application with MySQL, MongoDB, Redis database</li>
               <li>Developed a location engine and realtime API integrations</li>
               <li>Extensive API interfaces used (Twitter, Foursquare, Instagram, Yelp, Booking, Tripadvisor)</li>
               <li>Built highly scalable web backend</li>
               <li>User authentication via Twitter, Foursquare, Instagram</li>
             </ul>
 
-            <h2>
-              <a name="hesaplabakalim" class="anchor" href="#hesaplabakalim">
-                <span class="octicon octicon-link"></span></a><a href="http://hesaplabakalim.com">HesaplaBakalım</a>
-            </h2>
+            See in Web: <a name="pointro" class="anchor" href="#pointro">
+              <span class="octicon octicon-link"></span></a><a href="http://pointro.me">Pointro</a>
 
+            <h4>HesaplaBakalım</h4>
             <p>Worked as Lead developer on hesaplabakalim.com project, managed the team, implemented latest web technologies and methodologies.</p>
             <ul>
-              <li>Complex Rails application with PostgreSQL, Redis database</li>
+              <li>Ruby On Rails application with PostgreSQL, Redis database</li>
               <li>Developed calculator engine (wizard style, or form style) </li>
               <li>Cached and scaled application</li>
               <li>Marketing actions (Google Analytics and Google Adwords)</li>
               <li>User authentication via Facebook</li>
             </ul>
 
-            <h2>
-            <a name="e-prnet" class="anchor" href="#e-prnet">
+            See in Web: <a name="hesaplabakalim" class="anchor" href="#hesaplabakalim">
+              <span class="octicon octicon-link"></span></a><a href="http://hesaplabakalim.com">HesaplaBakalım</a>
+
+              <h4>e-PR</h4>
+              <p>Rails application for pressrooms and distributing its pressdocs</p>
+              <ul>
+                <li>Complex Rails application for creating and managing pressrooms and pressdocs</li>
+                <li>Tracks user activity and reporting (usage based, keyword based and social based)</li>
+              </ul>
+
+              See in Web: <a name="e-prnet" class="anchor" href="#e-prnet">
               <span class="octicon octicon-link"></span></a><a href="http://e-pr.net">e-PR.NET</a>
-            </h2>
 
-            <p>Rails application for pressrooms and distributing its pressdocs</p>
-            <ul>
-              <li>Complex Rails application for creating and managing pressrooms and pressdocs</li>
-              <li>Tracks user activity and reporting (usage based, keyword based and social based)</li>
-            </ul>
+              <h4>SosyalPosta</h4>
+              <p>PHP application with MySQL database hosted on Amazon EC2</p>
 
-            <h2>
-              <a name="sosyalpostacom" class="anchor" href="#sosyalpostacom">
-                <span class="octicon octicon-link"></span></a><a href="http://sosyalposta.com">SosyalPosta.com</a>
-            </h2>
-
-            <p>PHP application with MySQL database hosted on Amazon EC2</p>
-
-            <ul>
-              <li>Complex PHP application for generating social postcards and sending as physical card</li>
-              <li>Contributed to application backend code</li>
-            </ul><h2>
-            <a name="background-experience" class="anchor" href="#background-experience"><span class="octicon octicon-link"></span></a>Background Experience</h2>
-
-            <h3>
-            <a name="python--django-developer--before-2012" class="anchor" href="#python--django-developer--before-2012"><span class="octicon octicon-link"></span></a>Python &amp; Django Developer ( Before 2012)</h3>
-
-            <ul>
-              <li>Developed and maintained Python, Django, javascript applications</li>
-              <li>Deployed on Google App Engine platform</li>
-              <li>Built, realtime push notification application called minirealtime</li>
-            </ul><h3>
-            <a name="php-developer" class="anchor" href="#php-developer"><span class="octicon octicon-link"></span></a>PHP Developer</h3>
-
-            <ul>
-              <li>Developed and maintained PHP, Zend Framework, javascript applications.</li>
-            </ul>
+              <ul>
+                <li>Complex PHP application for generating social postcards and sending as physical card</li>
+                <li>Contributed to application backend code</li>
+              </ul>
 
 
-        </div>
-      </article>
-
-      <section class="related">
-        <p>Do you have a project in mind? Free free to contact me</p>
-        <div><a href="http://zerply.com/seyhunak"><p>Hire me on Zerply</p></a></div>
-        <div><a href="skype://seyhunak"><p>Call me on Skype</p></a></div>
-      </section>
-    </div><!-- /container -->
-
-    <script src="assets/javascripts/classie.js"></script>
-    <script>
-      (function() {
-
-        // detect if IE : from http://stackoverflow.com/a/16657946
-        var ie = (function(){
-          var undef,rv = -1; // Return value assumes failure.
-          var ua = window.navigator.userAgent;
-          var msie = ua.indexOf('MSIE ');
-          var trident = ua.indexOf('Trident/');
-
-          if (msie > 0) {
-            // IE 10 or older => return version number
-            rv = parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
-          } else if (trident > 0) {
-            // IE 11 (or newer) => return version number
-            var rvNum = ua.indexOf('rv:');
-            rv = parseInt(ua.substring(rvNum + 3, ua.indexOf('.', rvNum)), 10);
-          }
-
-          return ((rv > -1) ? rv : undef);
-        }());
+              See in Web: <a name="sosyalpostacom" class="anchor" href="#sosyalpostacom">
+             <span class="octicon octicon-link"></span></a><a href="http://sosyalposta.com">SosyalPosta.com</a>
 
 
-        // disable/enable scroll (mousewheel and keys) from http://stackoverflow.com/a/4770179
-        // left: 37, up: 38, right: 39, down: 40,
-        // spacebar: 32, pageup: 33, pagedown: 34, end: 35, home: 36
-        var keys = [32, 37, 38, 39, 40], wheelIter = 0;
+             <h4>
+             <a name="background-experience" class="anchor" href="#background-experience"><span class="octicon octicon-link"></span></a>Background Experience</h4>
 
-        function preventDefault(e) {
-          e = e || window.event;
-          if (e.preventDefault)
-          e.preventDefault();
-          e.returnValue = false;
-        }
+             <h3>
+             <a name="python--django-developer--before-2012" class="anchor" href="#python--django-developer--before-2012"><span class="octicon octicon-link"></span></a>Python &amp; Django Developer ( Before 2012)</h3>
 
-        function keydown(e) {
-          for (var i = keys.length; i--;) {
-            if (e.keyCode === keys[i]) {
-              preventDefault(e);
-              return;
-            }
-          }
-        }
+             <ul>
+               <li>Developed and maintained Python, Django, javascript applications</li>
+               <li>Deployed on Google App Engine platform</li>
+               <li>Built, realtime push notification application called minirealtime</li>
+             </ul><h3>
+             <a name="php-developer" class="anchor" href="#php-developer"><span class="octicon octicon-link"></span></a>PHP Developer</h3>
 
-        function touchmove(e) {
-          preventDefault(e);
-        }
-
-        function wheel(e) {
-          // for IE
-          //if( ie ) {
-            //preventDefault(e);
-          //}
-        }
-
-        function disable_scroll() {
-          window.onmousewheel = document.onmousewheel = wheel;
-          document.onkeydown = keydown;
-          document.body.ontouchmove = touchmove;
-        }
-
-        function enable_scroll() {
-          window.onmousewheel = document.onmousewheel = document.onkeydown = document.body.ontouchmove = null;
-        }
-
-        var docElem = window.document.documentElement,
-          scrollVal,
-          isRevealed,
-          noscroll,
-          isAnimating,
-          container = document.getElementById( 'container' ),
-          trigger = container.querySelector( 'button.trigger' );
-
-        function scrollY() {
-          return window.pageYOffset || docElem.scrollTop;
-        }
-
-        function scrollPage() {
-          scrollVal = scrollY();
-
-          if( noscroll && !ie ) {
-            if( scrollVal < 0 ) return false;
-            // keep it that way
-            window.scrollTo( 0, 0 );
-          }
-
-          if( classie.has( container, 'notrans' ) ) {
-            classie.remove( container, 'notrans' );
-            return false;
-          }
-
-          if( isAnimating ) {
-            return false;
-          }
-
-          if( scrollVal <= 0 && isRevealed ) {
-            toggle(0);
-          }
-          else if( scrollVal > 0 && !isRevealed ){
-            toggle(1);
-          }
-        }
-
-        function toggle( reveal ) {
-          isAnimating = true;
-
-          if( reveal ) {
-            classie.add( container, 'modify' );
-          }
-          else {
-            noscroll = true;
-            disable_scroll();
-            classie.remove( container, 'modify' );
-          }
-
-          // simulating the end of the transition:
-          setTimeout( function() {
-            isRevealed = !isRevealed;
-            isAnimating = false;
-            if( reveal ) {
-              noscroll = false;
-              enable_scroll();
-            }
-          }, 600 );
-        }
-
-        // refreshing the page...
-        var pageScroll = scrollY();
-        noscroll = pageScroll === 0;
-
-        disable_scroll();
-
-        if( pageScroll ) {
-          isRevealed = true;
-          classie.add( container, 'notrans' );
-          classie.add( container, 'modify' );
-        }
-
-        window.addEventListener( 'scroll', scrollPage );
-        trigger.addEventListener( 'click', function() { toggle( 'reveal' ); } );
-      })();
-    </script>
-
-    <script>
-      (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
-        t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
-      })(window, document, '_gscq','script','//widgets.getsitecontrol.com/72119/script.js');
-    </script>
+             <ul>
+               <li>Developed and maintained PHP, Zend Framework, javascript applications.</li>
+             </ul>
 
 
-    <link href="https://api.motion.ai/sdk/webchat.css" rel="stylesheet" type="text/css">
-    <script src="https://api.motion.ai/sdk/webchat.js"></script>
-    <script>
-       motionAI_Init('84654?color=3588eb&sendBtn=Ask&inputBox=Ask%20me%20something...&token=d642f59076b3671af610e9cd399bb011',true,375,475,'https://png.icons8.com/chat-filled/ios7/100');
-       /* You may also invoke motionAI_Open() to manually open the modal. */
-    </script>
 
-   </body>
-  </html>
+
+          </div>
+
+        </div> <!-- /timeline-block -->
+
+
+
+   			</div> <!-- /timeline-wrap -->
+
+   		</div> <!-- /col-twelve -->
+
+   	</div> <!-- /resume-timeline -->
+
+
+	</section> <!-- /features -->
+
+
+	<!-- Portfolio Section
+   ================================================== -->
+	<section id="portfolio">
+
+		<div class="row section-intro">
+   		<div class="col-twelve">
+   			<h5>Photos from me</h5>
+   			<h1>Check Out Some of My Photos.</h1>
+   			<p class="lead">Here is the some of pics I took from my work, from outdoors and from traveling.</p>
+
+   		</div>
+   	</div> <!-- /section-intro-->
+
+   	<div class="row portfolio-content">
+   		<div class="col-twelve">
+
+          <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/78330bd8741f5b5aafdeffaa5d210820.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+   		</div>  <!-- /twelve -->
+   	</div> <!-- /portfolio-content -->
+	</section> <!-- /portfolio -->
+
+
+   	<div class="row contact-info">
+   		<div class="col-four tab-full">
+
+   			<div class="icon">
+   				<i class="icon-pin"></i>
+   			</div>
+
+   			<h5>Where to find me</h5>
+   			<p>
+            eBay / Turkey<br>
+            Barbaros District. Çiğdem Street. Ağaoğlu My Office.
+            Ataşehir / Istanbul<br>
+            Turkey
+        </p>
+   		</div>
+
+   		<div class="col-four tab-full collapse">
+
+   			<div class="icon">
+   				<i class="icon-mail"></i>
+   			</div>
+
+   			<h5>Email Me At</h5>
+
+   			<p>seyhunak [at] gmail.com<br>
+			   	sakyurek@ebay.com
+			   </p>
+
+   		</div>
+
+   		<div class="col-four tab-full">
+
+   			<div class="icon">
+   				<i class="icon-phone"></i>
+   			</div>
+
+   			<h5>Call Me At</h5>
+
+   			<p>Skype: @seyhunak</p>
+
+   		</div>
+
+   	</div> <!-- /contact-info -->
+
+	</section> <!-- /contact -->
+
+
+   <!-- footer
+   ================================================== -->
+
+   <footer>
+     	<div class="row">
+      	<div class="col-six tab-full">
+	      	<div class="copyright">
+		        	<span>Seyhun Akyurek</span>
+		        	<span>by <a href="http://www.seyhunakyurek.com/">seyhunakyurek.com</a></span>
+		         </div>
+	      	</div>
+
+	      	<div id="go-top">
+		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
+		      </div>
+
+      	</div> <!-- /row -->
+   </footer>
+
+   <div id="preloader">
+    	<div id="loader"></div>
+   </div>
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="js/jquery-2.1.3.min.js"></script>
+   <script src="js/plugins.js"></script>
+   <script src="js/main.js"></script>
+
+   <script>
+     (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+       t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+     })(window, document, '_gscq','script','//widgets.getsitecontrol.com/72119/script.js');
+   </script>
+
+  </body>
+</html>
